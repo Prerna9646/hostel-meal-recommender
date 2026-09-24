@@ -1,0 +1,81 @@
+ingredient,normalized_ingredient,ifct_code,ifct_name,mapping_status,mapping_type,confidence,source_type,source_reference,notes
+"Wheat flour, atta",wheat flour atta,A019,"Wheat flour, atta",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A019,Direct match to whole wheat atta
+"Wheat flour, refined",wheat flour refined,A018,"Wheat flour, refined",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A018,Direct match to maida (refined wheat flour)
+"Rice, raw/parboiled",rice raw parboiled,A014,"Rice, parboiled, milled",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A014,Direct match to parboiled milled rice
+"Rice, flakes",rice flakes,A011,"Rice, flakes",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A011,Direct match to poha (rice flakes)
+"Rice, puffed",rice puffed,A012,"Rice, puffed",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A012,Direct match to murmura (puffed rice)
+"Wheat, semolina",wheat semolina,A022,"Wheat, semolina",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A022,Direct match to suji / rava
+"Wheat, vermicelli",wheat vermicelli,A023,"Wheat, vermicelli",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A023,Direct match to sevai
+"Wheat, bulgur",wheat bulgur,A021,"Wheat, bulgur",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A021,Direct match to dalia (broken wheat bulgur)
+"Bengal gram, dal",bengal gram dal,B001,"Bengal gram, dal",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:B001,Direct match to chana dal
+"Bengal gram, whole",bengal gram whole,B002,"Bengal gram, whole",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:B002,Direct match to kala chana
+"Bengal gram, flour",bengal gram flour,B001,"Bengal gram, dal",VERIFIED,INGREDIENT_FORM,0.95,IFCT_DERIVED,IFCT2017:B001,Besan is mechanically milled dehulled Bengal gram dal
+Kabuli chana,kabuli chana,B002,"Bengal gram, whole",APPROXIMATE,VARIETY,0.85,PROJECT_ASSUMPTION,IFCT2017:B002,White chana mapped to proximate species Cicer arietinum L. (whole)
+"Green gram, dal",green gram dal,B010,"Green gram, dal",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B010,Direct match to moong dal (yellow/split)
+"Green gram, whole",green gram whole,B011,"Green gram, whole",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B011,Direct match to moong sabut
+"Lentil, dal",lentil dal,B013,"Lentil, dal",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B013,Direct match to malka masoor (split lentil)
+"Lentil, whole",lentil whole,B014,"Lentil, whole, brown",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B014,Direct match to sabut masoor (brown lentil)
+"Red gram, dal",red gram dal,B022,"Red gram, whole",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B022,Direct match to toor dal / arhar dal
+"Black gram, dal",black gram dal,B003,"Black gram, dal",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B003,Direct match to dhuli urad dal
+"Black gram, whole",black gram whole,B004,"Black gram, whole",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B004,Direct match to sabut urad (black dal)
+Cowpea,cowpea,B005,"Cowpea, brown",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:B005,Direct match to lobiya (brown cowpea)
+Kidney beans,kidney beans,B020,"Rajmah, red",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:B020,"Direct match to rajmah, red"
+Soyabean chunks,soyabean chunks,B024,"Soya bean, brown",APPROXIMATE,INGREDIENT_FORM,0.8,PROJECT_ASSUMPTION,IFCT2017:B024,Commercial soya chunks mapped to raw whole soyabean as baseline
+Green peas,green peas,D061,"Peas, fresh",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:D061,Direct match to fresh green peas
+Potato,potato,F006,"Potato, brown skin, big",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:F006,"Priority cultivar: Potato, brown skin, big"
+Onion,onion,G017,"Onion, big",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:G017,"Priority cultivar: Onion, big commercial"
+Tomato,tomato,D075,"Tomato, ripe, hybrid",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:D075,"Priority cultivar: Tomato, ripe, hybrid"
+Ginger,ginger,G014,"Ginger, fresh",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:G014,Direct match to fresh ginger
+Garlic,garlic,G011,"Garlic, big cloves",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:G011,"Priority cultivar: Garlic, big cloves"
+Green chilli,green chilli,G008,"Chillies, green - all varieties",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:G008,Green chillies - all varieties composite
+Cauliflower,cauliflower,D036,Cauliflower,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:D036,Direct match to fresh cauliflower
+Cabbage,cabbage,C015,"Cabbage, green",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:C015,Direct match to fresh green cabbage
+"Capsicum, green",capsicum green,D033,"Capsicum, green",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:D033,Direct match to green capsicum (bell pepper)
+Spinach,spinach,C033,Spinach,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:C033,Direct match to fresh palak
+Bottle gourd,bottle gourd,D007,"Bottle gourd, elongate, pale green",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:D007,Direct match to lauki / ghiya
+Pumpkin,pumpkin,D066,"Pumpkin, orange, round",VERIFIED,SYNONYM,1.0,IFCT_DIRECT,IFCT2017:D066,Direct match to kaddu (orange round pumpkin)
+Cucumber,cucumber,D043,"Cucumber, green, elongate",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:D043,Direct match to kheera (green elongate cucumber)
+Beetroot,beetroot,F001,Beetroot,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:F001,Direct match to chukandar (beetroot)
+Sweet corn,sweet corn,A008,"Maize, tender, sweet",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:A008,"Direct match to maize, tender, sweet"
+Carrot,carrot,F002,"Carrot, orange",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:F002,Direct match to orange carrot
+French beans,french beans,D049,"French beans, country",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:D049,Direct match to green french beans
+Lemon,lemon,E033,"Lemon, juice",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:E033,Direct match to fresh lemon juice
+Coriander leaves,coriander leaves,G009,Coriander leaves,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:G009,Direct match to fresh coriander leaves
+Mint leaves,mint leaves,G016,Mint leaves,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:G016,Direct match to fresh mint leaves
+Banana,banana,E009,"Banana, ripe, montham",VERIFIED,VARIETY,0.95,IFCT_DIRECT,IFCT2017:E009,"Priority cultivar: Banana, ripe, montham"
+"Milk, whole, cow",milk whole cow,L002,"Milk, whole, Cow",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:L002,Direct match to cow whole milk
+Paneer,paneer,L003,Paneer,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:L003,Direct match to fresh paneer
+Curd / Dahi,curd   dahi,L002,"Milk, whole, Cow",APPROXIMATE,FOOD_FORM,0.9,PROJECT_ASSUMPTION,IFCT2017:L002,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Khoa,khoa,L004,Khoa,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:L004,Direct match to khoa / mawa
+Condensed milk,condensed milk,,,VERIFIED,EXTERNAL,0.95,EXTERNAL_REFERENCE,USDA_FDC_173449,USDA FoodData Central 173449 (Sweetened condensed canned milk)
+"Chicken meat, breast",chicken meat breast,N003,"Chicken, poultry, breast, skinless",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:N003,"Direct match to chicken breast, skinless"
+"Egg, whole",egg whole,M004,"Egg, poultry, whole, boiled",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:M004,Direct match to whole boiled poultry egg
+Vegetable oil,vegetable oil,T006,Mustard oil,VERIFIED,VARIETY,0.95,IFCT_DERIVED,IFCT2017:T006,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Ghee,ghee,T013,Ghee,VERIFIED,DIRECT,1.0,IFCT_DERIVED,IFCT2017:T013,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Butter,butter,,,VERIFIED,EXTERNAL,0.95,EXTERNAL_REFERENCE,USDA_FDC_173410,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Cumin seeds,cumin seeds,G025,Cumin seeds,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:G025,Direct match to cumin seeds (jeera)
+Groundnut / Peanut,groundnut   peanut,H012,Ground nut,VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:H012,Direct match to raw ground nut
+"Coconut, dry",coconut dry,H006,"Coconut, kernel, dry",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:H006,"Direct match to coconut, kernel, dry"
+"Sugar, refined",sugar refined,,,VERIFIED,EXTERNAL,0.95,EXTERNAL_REFERENCE,USDA_FDC_169655,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Jaggery,jaggery,I001,"Jaggery, cane",VERIFIED,DIRECT,1.0,IFCT_DIRECT,IFCT2017:I001,"Direct match to jaggery, cane"
+Tapioca pearls,tapioca pearls,F015,Tapioca,APPROXIMATE,FOOD_FORM,0.85,PROJECT_ASSUMPTION,IFCT2017:F015,Sabudana processed starch pearls mapped to proximate raw tapioca root
+Tea leaves,tea leaves,,,APPROXIMATE,FOOD_FORM,0.9,PROJECT_ASSUMPTION,PROJECT_CULINARY_ASSUMPTION,Infusion basis: leaves impart flavor; calories supplied by milk and sugar
+Coffee powder,coffee powder,,,APPROXIMATE,FOOD_FORM,0.9,PROJECT_ASSUMPTION,PROJECT_CULINARY_ASSUMPTION,Infusion basis: powder imparts flavor; calories supplied by milk and sugar
+Commercial bread,commercial bread,,,VERIFIED,EXTERNAL,0.95,EXTERNAL_REFERENCE,USDA_FDC_172685,"USDA FoodData Central 172685 (Bread, white, commercially prepared)"
+Commercial biscuit,commercial biscuit,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed biscuit lacking generic IFCT profile; excluded from scoring
+Commercial chips,commercial chips,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed potato chips lacking IFCT profile; excluded from scoring
+Commercial bun,commercial bun,,,VERIFIED,EXTERNAL,0.9,EXTERNAL_REFERENCE,USDA_FDC_172685,Mapped to commercial white bread/bun baseline (USDA FDC 172685)
+Commercial muffin,commercial muffin,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed bakery muffin lacking IFCT profile; excluded from scoring
+Commercial brownie,commercial brownie,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed brownie lacking IFCT profile; excluded from scoring
+Commercial cream roll,commercial cream roll,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed cream roll lacking IFCT profile; excluded from scoring
+Commercial chocolate,commercial chocolate,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial packaged chocolate candy lacking IFCT profile; excluded from scoring
+Commercial tea cake,commercial tea cake,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial bakery cake lacking IFCT profile; excluded from scoring
+Commercial rusk,commercial rusk,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial twice-baked toast lacking IFCT profile; excluded from scoring
+Commercial namkeen,commercial namkeen,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial fried savoury mixture lacking IFCT profile; excluded from scoring
+Commercial fryums,commercial fryums,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial deep-fried extruded snack lacking IFCT profile; excluded from scoring
+Commercial pasta,commercial pasta,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial pink sauce pasta lacking IFCT profile; excluded from scoring
+Commercial cornflakes,commercial cornflakes,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial breakfast cereal flakes lacking IFCT profile; excluded from scoring
+Commercial tomato ketchup,commercial tomato ketchup,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial sweetened ketchup lacking generic IFCT profile; excluded from scoring
+Commercial jam,commercial jam,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial mixed fruit jam lacking generic IFCT profile; excluded from scoring
+Commercial pickle,commercial pickle,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial mango/mixed pickle with unmeasured salt brine; excluded from scoring
+Commercial fat spread,commercial fat spread,,,UNMAPPED,UNAVAILABLE,0.0,UNAVAILABLE,UNAVAILABLE,Commercial margarine/fat spread lacking IFCT profile; excluded from scoring

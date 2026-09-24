@@ -1,0 +1,81 @@
+ingredient,ifct_code,ifct_name,food_group,energy_kcal_per_100g,protein_g_per_100g,fat_g_per_100g,carbohydrate_g_per_100g,fibre_g_per_100g,potassium_mg_per_100g,sodium_mg_per_100g,calcium_mg_per_100g,iron_mg_per_100g,data_source,source_reference,data_status,notes
+"Wheat flour, atta",A019,"Wheat flour, atta",Cereals and Millets,320.27,10.57,1.53,64.17,11.36,311.0,2.04,30.94,4.1,IFCT_2017,IFCT2017:A019,VERIFIED,Direct match to whole wheat atta
+"Wheat flour, refined",A018,"Wheat flour, refined",Cereals and Millets,351.82,10.36,0.76,74.27,2.76,148.0,1.54,20.4,1.77,IFCT_2017,IFCT2017:A018,VERIFIED,Direct match to maida (refined wheat flour)
+"Rice, raw/parboiled",A014,"Rice, parboiled, milled",Cereals and Millets,351.58,7.81,0.55,77.16,3.74,142.0,3.16,8.11,0.72,IFCT_2017,IFCT2017:A014,VERIFIED,Direct match to parboiled milled rice
+"Rice, flakes",A011,"Rice, flakes",Cereals and Millets,353.73,7.44,1.14,76.75,3.46,148.0,2.58,9.19,4.46,IFCT_2017,IFCT2017:A011,VERIFIED,Direct match to poha (rice flakes)
+"Rice, puffed",A012,"Rice, puffed",Cereals and Millets,361.85,7.47,1.62,77.68,2.56,140.0,3.69,15.09,4.55,IFCT_2017,IFCT2017:A012,VERIFIED,Direct match to murmura (puffed rice)
+"Wheat, semolina",A022,"Wheat, semolina",Cereals and Millets,333.65,11.38,0.74,68.43,9.72,284.0,2.31,29.38,2.98,IFCT_2017,IFCT2017:A022,VERIFIED,Direct match to suji / rava
+"Wheat, vermicelli",A023,"Wheat, vermicelli",Cereals and Millets,332.7,9.7,0.45,70.39,9.28,163.0,2.71,19.42,2.02,IFCT_2017,IFCT2017:A023,VERIFIED,Direct match to sevai
+"Wheat, bulgur",A021,"Wheat, bulgur",Cereals and Millets,341.78,10.84,1.45,69.06,8.81,330.0,2.09,27.09,3.86,IFCT_2017,IFCT2017:A021,VERIFIED,Direct match to dalia (broken wheat bulgur)
+"Bengal gram, dal",B001,"Bengal gram, dal",Grain Legumes,329.11,21.55,5.31,46.72,15.15,957.0,20.83,46.32,6.08,IFCT_2017,IFCT2017:B001,VERIFIED,Direct match to chana dal
+"Bengal gram, whole",B002,"Bengal gram, whole",Grain Legumes,287.05,18.77,5.11,39.56,25.22,935.0,26.56,150.0,6.78,IFCT_2017,IFCT2017:B002,VERIFIED,Direct match to kala chana
+"Bengal gram, flour",B001,"Bengal gram, dal",Grain Legumes,329.11,21.55,5.31,46.72,15.15,957.0,20.83,46.32,6.08,IFCT_2017,IFCT2017:B001,VERIFIED,Besan is mechanically milled dehulled Bengal gram dal
+Kabuli chana,B002,"Bengal gram, whole",Grain Legumes,287.05,18.77,5.11,39.56,25.22,935.0,26.56,150.0,6.78,IFCT_2017,IFCT2017:B002,APPROXIMATE,White chana mapped to proximate species Cicer arietinum L. (whole)
+"Green gram, dal",B010,"Green gram, dal",Grain Legumes,325.76,23.88,1.35,52.59,9.37,1268.0,10.14,43.13,3.93,IFCT_2017,IFCT2017:B010,VERIFIED,Direct match to moong dal (yellow/split)
+"Green gram, whole",B011,"Green gram, whole",Grain Legumes,293.74,22.53,1.14,46.13,17.04,1177.0,12.48,92.43,4.89,IFCT_2017,IFCT2017:B011,VERIFIED,Direct match to moong sabut
+"Lentil, dal",B013,"Lentil, dal",Grain Legumes,322.42,24.35,0.75,52.53,10.43,786.0,10.27,44.32,7.06,IFCT_2017,IFCT2017:B013,VERIFIED,Direct match to malka masoor (split lentil)
+"Lentil, whole",B014,"Lentil, whole, brown",Grain Legumes,299.0,22.49,0.64,48.47,16.82,756.0,11.2,76.13,7.57,IFCT_2017,IFCT2017:B014,VERIFIED,Direct match to sabut masoor (brown lentil)
+"Red gram, dal",B022,"Red gram, whole",Grain Legumes,273.9,20.47,1.38,42.48,22.84,1303.0,19.03,139.0,5.37,IFCT_2017,IFCT2017:B022,VERIFIED,Direct match to toor dal / arhar dal
+"Black gram, dal",B003,"Black gram, dal",Grain Legumes,324.09,23.06,1.69,51.0,11.93,1157.0,18.88,55.67,4.67,IFCT_2017,IFCT2017:B003,VERIFIED,Direct match to dhuli urad dal
+"Black gram, whole",B004,"Black gram, whole",Grain Legumes,291.35,21.97,1.58,43.99,20.41,1093.0,26.8,86.18,5.97,IFCT_2017,IFCT2017:B004,VERIFIED,Direct match to sabut urad (black dal)
+Cowpea,B005,"Cowpea, brown",Grain Legumes,320.27,20.36,1.15,54.62,11.54,1241.0,13.68,81.73,5.9,IFCT_2017,IFCT2017:B005,VERIFIED,Direct match to lobiya (brown cowpea)
+Kidney beans,B020,"Rajmah, red",Grain Legumes,299.24,19.91,1.77,48.61,16.57,1324.0,10.45,126.0,6.13,IFCT_2017,IFCT2017:B020,VERIFIED,"Direct match to rajmah, red"
+Soyabean chunks,B024,"Soya bean, brown",Grain Legumes,381.45,35.58,19.82,12.79,21.55,1613.0,2.07,239.0,8.29,IFCT_2017,IFCT2017:B024,APPROXIMATE,Commercial soya chunks mapped to raw whole soyabean as baseline
+Green peas,D061,"Peas, fresh",Other Vegetables,81.26,7.25,0.13,11.88,6.32,249.0,3.66,28.24,1.58,IFCT_2017,IFCT2017:D061,VERIFIED,Direct match to fresh green peas
+Potato,F006,"Potato, brown skin, big",Roots and Tubers,69.79,1.54,0.23,14.89,1.71,541.0,4.11,9.52,0.57,IFCT_2017,IFCT2017:F006,VERIFIED,"Priority cultivar: Potato, brown skin, big"
+Onion,G017,"Onion, big",Condiments and Spices,48.04,1.5,0.24,9.56,2.45,171.0,5.5,21.03,0.43,IFCT_2017,IFCT2017:G017,VERIFIED,"Priority cultivar: Onion, big commercial"
+Tomato,D075,"Tomato, ripe, hybrid",Other Vegetables,18.88,0.76,0.25,3.2,1.58,167.0,11.86,8.9,0.22,IFCT_2017,IFCT2017:D075,VERIFIED,"Priority cultivar: Tomato, ripe, hybrid"
+Ginger,G014,"Ginger, fresh",Condiments and Spices,54.97,2.22,0.85,8.97,5.36,407.0,10.03,18.88,1.9,IFCT_2017,IFCT2017:G014,VERIFIED,Direct match to fresh ginger
+Garlic,G011,"Garlic, big cloves",Condiments and Spices,123.8,6.92,0.16,21.93,5.22,430.0,9.42,20.08,1.05,IFCT_2017,IFCT2017:G011,VERIFIED,"Priority cultivar: Garlic, big cloves"
+Green chilli,G008,"Chillies, green - all varieties",Condiments and Spices,42.3,2.36,0.72,5.86,4.77,341.0,2.5,18.45,1.2,IFCT_2017,IFCT2017:G008,VERIFIED,Green chillies - all varieties composite
+Cauliflower,D036,Cauliflower,Other Vegetables,22.94,2.15,0.44,2.03,3.71,329.0,30.72,25.16,0.96,IFCT_2017,IFCT2017:D036,VERIFIED,Direct match to fresh cauliflower
+Cabbage,C015,"Cabbage, green",Green Leafy Vegetables,21.51,1.36,0.12,3.25,2.76,233.0,14.98,51.76,0.35,IFCT_2017,IFCT2017:C015,VERIFIED,Direct match to fresh green cabbage
+"Capsicum, green",D033,"Capsicum, green",Other Vegetables,16.25,1.11,0.34,1.84,2.06,154.0,1.84,14.75,0.48,IFCT_2017,IFCT2017:D033,VERIFIED,Direct match to green capsicum (bell pepper)
+Spinach,C033,Spinach,Green Leafy Vegetables,24.38,2.14,0.64,2.05,2.38,625.0,42.55,82.29,2.95,IFCT_2017,IFCT2017:C033,VERIFIED,Direct match to fresh palak
+Bottle gourd,D007,"Bottle gourd, elongate, pale green",Other Vegetables,10.99,0.53,0.13,1.68,2.12,124.0,1.46,15.42,0.26,IFCT_2017,IFCT2017:D007,VERIFIED,Direct match to lauki / ghiya
+Pumpkin,D066,"Pumpkin, orange, round",Other Vegetables,23.18,0.84,0.16,4.0,2.56,253.0,8.81,23.06,0.36,IFCT_2017,IFCT2017:D066,VERIFIED,Direct match to kaddu (orange round pumpkin)
+Cucumber,D043,"Cucumber, green, elongate",Other Vegetables,19.6,0.71,0.16,3.48,2.14,183.0,6.33,16.39,0.46,IFCT_2017,IFCT2017:D043,VERIFIED,Direct match to kheera (green elongate cucumber)
+Beetroot,F001,Beetroot,Roots and Tubers,35.61,1.95,0.14,6.18,3.31,306.0,69.44,17.28,0.76,IFCT_2017,IFCT2017:F001,VERIFIED,Direct match to chukandar (beetroot)
+Sweet corn,A008,"Maize, tender, sweet",Cereals and Millets,96.8,4.16,1.35,16.42,3.3,297.0,2.23,6.37,0.54,IFCT_2017,IFCT2017:A008,VERIFIED,"Direct match to maize, tender, sweet"
+Carrot,F002,"Carrot, orange",Roots and Tubers,33.22,0.95,0.47,5.55,4.18,273.0,52.33,35.09,0.6,IFCT_2017,IFCT2017:F002,VERIFIED,Direct match to orange carrot
+French beans,D049,"French beans, country",Other Vegetables,24.38,2.49,0.26,2.68,4.38,324.0,8.84,55.99,1.25,IFCT_2017,IFCT2017:D049,VERIFIED,Direct match to green french beans
+Lemon,E033,"Lemon, juice",Fruits,36.57,0.41,0.75,0.0,0.0,113.0,1.21,22.68,0.12,IFCT_2017,IFCT2017:E033,VERIFIED,Direct match to fresh lemon juice
+Coriander leaves,G009,Coriander leaves,Condiments and Spices,31.07,3.52,0.7,1.93,4.66,546.0,37.0,146.0,5.3,IFCT_2017,IFCT2017:G009,VERIFIED,Direct match to fresh coriander leaves
+Mint leaves,G016,Mint leaves,Condiments and Spices,37.05,4.66,0.65,2.39,5.89,539.0,16.87,205.0,8.56,IFCT_2017,IFCT2017:G016,VERIFIED,Direct match to fresh mint leaves
+Banana,E009,"Banana, ripe, montham",Fruits,110.66,1.25,0.32,24.95,2.21,362.0,1.25,6.77,0.4,IFCT_2017,IFCT2017:E009,VERIFIED,"Priority cultivar: Banana, ripe, montham"
+"Milk, whole, cow",L002,"Milk, whole, Cow",Milk and Milk Products,72.9,3.26,4.48,4.94,0.0,115.0,25.46,118.0,0.15,IFCT_2017,IFCT2017:L002,VERIFIED,Direct match to cow whole milk
+Paneer,L003,Paneer,Milk and Milk Products,257.89,18.86,14.78,12.41,0.0,63.53,18.04,476.0,0.9,IFCT_2017,IFCT2017:L003,VERIFIED,Direct match to fresh paneer
+Curd / Dahi,L002,"Milk, whole, Cow",Milk and Milk Products,72.9,3.26,4.48,4.94,0.0,115.0,25.46,118.0,0.15,IFCT_2017,IFCT2017:L002,APPROXIMATE,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Khoa,L004,Khoa,Milk and Milk Products,315.97,16.34,20.62,16.53,0.0,536.0,48.1,602.0,2.32,IFCT_2017,IFCT2017:L004,VERIFIED,Direct match to khoa / mawa
+Condensed milk,,,Dairy,321.0,7.91,8.7,54.4,0.0,371.0,127.0,284.0,0.19,EXTERNAL_REFERENCE,USDA_FDC_173449,VERIFIED,USDA FoodData Central 173449 (Sweetened condensed canned milk)
+"Chicken meat, breast",N003,"Chicken, poultry, breast, skinless",Poultry,168.26,21.81,9.0,0.0,0.0,295.0,36.7,12.91,0.83,IFCT_2017,IFCT2017:N003,VERIFIED,"Direct match to chicken breast, skinless"
+"Egg, whole",M004,"Egg, poultry, whole, boiled",Egg and Egg Products,147.71,13.43,10.54,0.0,0.0,127.0,121.0,55.12,1.87,IFCT_2017,IFCT2017:M004,VERIFIED,Direct match to whole boiled poultry egg
+Vegetable oil,T006,Mustard oil,Edible Oils and Fats,900.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,IFCT_2017,IFCT2017:T006,VERIFIED,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Ghee,T013,Ghee,Edible Oils and Fats,900.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,IFCT_2017,IFCT2017:T013,VERIFIED,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Butter,,,Dairy,717.0,0.85,81.11,0.06,0.0,24.0,643.0,24.0,0.02,EXTERNAL_REFERENCE,USDA_FDC_173410,VERIFIED,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Cumin seeds,G025,Cumin seeds,Condiments and Spices,304.49,13.91,16.64,22.62,30.35,1886.0,125.0,878.0,20.58,IFCT_2017,IFCT2017:G025,VERIFIED,Direct match to cumin seeds (jeera)
+Groundnut / Peanut,H012,Ground nut,Nuts and Oil Seeds,520.08,23.65,39.63,17.27,10.38,679.0,12.21,54.0,3.44,IFCT_2017,IFCT2017:H012,VERIFIED,Direct match to raw ground nut
+"Coconut, dry",H006,"Coconut, kernel, dry",Nuts and Oil Seeds,624.04,7.27,63.26,8.01,15.88,739.0,16.68,32.0,3.13,IFCT_2017,IFCT2017:H006,VERIFIED,"Direct match to coconut, kernel, dry"
+"Sugar, refined",,,Sugars,387.0,0.0,0.0,99.96,0.0,2.0,1.0,1.0,0.05,EXTERNAL_REFERENCE,USDA_FDC_169655,VERIFIED,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Jaggery,I001,"Jaggery, cane",Sugars,353.73,1.85,0.16,84.87,0.0,488.0,25.38,107.0,4.63,IFCT_2017,IFCT2017:I001,VERIFIED,"Direct match to jaggery, cane"
+Tapioca pearls,F015,Tapioca,Roots and Tubers,79.83,1.03,0.2,17.81,4.61,255.0,10.86,25.89,0.81,IFCT_2017,IFCT2017:F015,APPROXIMATE,Sabudana processed starch pearls mapped to proximate raw tapioca root
+Tea leaves,,,Spice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,EXTERNAL_REFERENCE,PROJECT_CULINARY_ASSUMPTION,ESTIMATED,Infusion basis: leaves impart flavor; calories supplied by milk and sugar
+Coffee powder,,,Spice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,EXTERNAL_REFERENCE,PROJECT_CULINARY_ASSUMPTION,ESTIMATED,Infusion basis: powder imparts flavor; calories supplied by milk and sugar
+Commercial bread,,,Cereal,265.0,8.85,3.2,49.1,2.7,115.0,491.0,260.0,3.6,EXTERNAL_REFERENCE,USDA_FDC_172685,VERIFIED,"USDA FoodData Central 172685 (Bread, white, commercially prepared)"
+Commercial biscuit,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed biscuit lacking generic IFCT profile; excluded from scoring
+Commercial chips,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed potato chips lacking IFCT profile; excluded from scoring
+Commercial bun,,,Cereal,265.0,8.85,3.2,49.1,2.7,115.0,491.0,260.0,3.6,EXTERNAL_REFERENCE,USDA_FDC_172685,VERIFIED,Mapped to commercial white bread/bun baseline (USDA FDC 172685)
+Commercial muffin,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed bakery muffin lacking IFCT profile; excluded from scoring
+Commercial brownie,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed brownie lacking IFCT profile; excluded from scoring
+Commercial cream roll,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial ultra-processed cream roll lacking IFCT profile; excluded from scoring
+Commercial chocolate,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial packaged chocolate candy lacking IFCT profile; excluded from scoring
+Commercial tea cake,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial bakery cake lacking IFCT profile; excluded from scoring
+Commercial rusk,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial twice-baked toast lacking IFCT profile; excluded from scoring
+Commercial namkeen,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial fried savoury mixture lacking IFCT profile; excluded from scoring
+Commercial fryums,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial deep-fried extruded snack lacking IFCT profile; excluded from scoring
+Commercial pasta,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial pink sauce pasta lacking IFCT profile; excluded from scoring
+Commercial cornflakes,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial breakfast cereal flakes lacking IFCT profile; excluded from scoring
+Commercial tomato ketchup,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial sweetened ketchup lacking generic IFCT profile; excluded from scoring
+Commercial jam,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial mixed fruit jam lacking generic IFCT profile; excluded from scoring
+Commercial pickle,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial mango/mixed pickle with unmeasured salt brine; excluded from scoring
+Commercial fat spread,,,,,,,,,,,,,UNAVAILABLE,UNAVAILABLE,UNAVAILABLE,Commercial margarine/fat spread lacking IFCT profile; excluded from scoring

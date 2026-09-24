@@ -1,0 +1,151 @@
+dataset,column,description,unit,source_type,allowed_values,notes
+ifct_2017_clean.csv,ifct_code,Unique alphanumeric food identifier from IFCT 2017,dimensionless,IFCT_DIRECT,A001-T014,Primary Key
+ifct_2017_clean.csv,food_name,Standardized English food name,dimensionless,IFCT_DIRECT,String,From IFCT name
+ifct_2017_clean.csv,scientific_name,Binomial botanical / zoological name,dimensionless,IFCT_DIRECT,String,From IFCT scie
+ifct_2017_clean.csv,food_group,NIN-ICMR biological food group classification,dimensionless,IFCT_DIRECT,20 groups (A-T),From IFCT grup
+ifct_2017_clean.csv,dietary_tag,Dietary lifestyle classification,dimensionless,IFCT_DERIVED,"VEGETARIAN, EGGETARIAN, NON_VEG",Derived from tags
+ifct_2017_clean.csv,energy_kcal_per_100g,Metabolizable energy density,kcal/100g,IFCT_DERIVED,>= 0.0,kJ / 4.184; oils via Atwater fat factor 9 kcal/g
+ifct_2017_clean.csv,protein_g_per_100g,Total protein content,g/100g,IFCT_DIRECT,>= 0.0,Kjeldahl crude protein
+ifct_2017_clean.csv,fat_g_per_100g,Total crude fat content,g/100g,IFCT_DIRECT,>= 0.0,Mixed solvent extraction
+ifct_2017_clean.csv,carbohydrate_g_per_100g,Available carbohydrates by difference,g/100g,IFCT_DIRECT,>= 0.0,Excludes dietary fibre
+ifct_2017_clean.csv,fibre_g_per_100g,Total dietary fibre,g/100g,IFCT_DIRECT,>= 0.0,Enzymatic-gravimetric method
+ifct_2017_clean.csv,calcium_mg_per_100g,Elemental calcium content,mg/100g,IFCT_DERIVED,>= 0.0,Converted from g/100g * 1000
+ifct_2017_clean.csv,iron_mg_per_100g,Elemental iron content,mg/100g,IFCT_DERIVED,>= 0.0,Converted from g/100g * 1000
+ifct_2017_clean.csv,potassium_mg_per_100g,Elemental potassium content,mg/100g,IFCT_DERIVED,>= 0.0,Converted from g/100g * 1000
+ifct_2017_clean.csv,sodium_mg_per_100g,Elemental sodium content,mg/100g,IFCT_DERIVED,>= 0.0,Converted from g/100g * 1000
+ifct_2017_clean.csv,water_g_per_100g,Moisture content,g/100g,IFCT_DIRECT,>= 0.0,Moisture by drying
+ifct_2017_clean.csv,source_class,Data provenance classification,dimensionless,DERIVED,IFCT_DERIVED,Provenance tracking
+ingredient_master.csv,ingredient_id,Unique canonical ingredient identifier (ING_001 - ING_080),dimensionless,DERIVED,ING_XXX,Primary Key
+ingredient_master.csv,canonical_ingredient_name,Standardized canonical commodity name,dimensionless,DERIVED,String,Unique commodity label
+ingredient_master.csv,category,Domain food category,dimensionless,DERIVED,"Cereal, Pulse, Vegetable, Fruit, Dairy, Poultry, Egg, Fat/Oil, Spice, Nut/Seed, Sweetener, Commercial",Taxonomy
+ingredient_master.csv,source_class,Data provenance classification,dimensionless,DERIVED,DERIVED,Provenance tracking
+ingredient_mapping_final.csv,ingredient,Canonical ingredient name,dimensionless,DERIVED,String,Foreign Key to ingredient_master
+ingredient_mapping_final.csv,normalized_ingredient,Normalized lowercase tokenized string,dimensionless,DERIVED,String,Search key
+ingredient_mapping_final.csv,ifct_code,Target IFCT 2017 food code,dimensionless,IFCT_DIRECT,A001-T014 or empty,Foreign Key to clean IFCT
+ingredient_mapping_final.csv,ifct_name,Matching food name from IFCT,dimensionless,IFCT_DIRECT,String or empty,IFCT name
+ingredient_mapping_final.csv,mapping_status,Validation level of the mapping,dimensionless,DERIVED,"VERIFIED, APPROXIMATE, UNMAPPED",Quality badge
+ingredient_mapping_final.csv,mapping_type,Semantic relationship type,dimensionless,DERIVED,"DIRECT, SYNONYM, VARIETY, FOOD_FORM, INGREDIENT_FORM, EXTERNAL, UNAVAILABLE",Ontology link
+ingredient_mapping_final.csv,confidence,Mapping confidence score,score (0.0 - 1.0),DERIVED,0.0 to 1.0,Subjective/audit confidence
+ingredient_mapping_final.csv,source_type,Source origin classification,dimensionless,DERIVED,"IFCT_DIRECT, IFCT_DERIVED, EXTERNAL_REFERENCE, PROJECT_ASSUMPTION, UNAVAILABLE",Contract class
+ingredient_mapping_final.csv,source_reference,Exact citation identifier or document code,dimensionless,DERIVED,Citation string,Traceability
+ingredient_mapping_final.csv,notes,Qualitative explanatory notes on the mapping decision,dimensionless,DERIVED,String,Audit notes
+ingredient_nutrition_final.csv,ingredient,Canonical ingredient name,dimensionless,DERIVED,String,Primary Key
+ingredient_nutrition_final.csv,ifct_code,Linked IFCT code,dimensionless,IFCT_DIRECT,A001-T014 or empty,Foreign Key
+ingredient_nutrition_final.csv,ifct_name,Linked IFCT food name,dimensionless,IFCT_DIRECT,String or empty,Reference label
+ingredient_nutrition_final.csv,food_group,Nutritional food group,dimensionless,DERIVED,String,Group
+ingredient_nutrition_final.csv,energy_kcal_per_100g,Energy density,kcal/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,protein_g_per_100g,Protein density,g/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,fat_g_per_100g,Fat density,g/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,carbohydrate_g_per_100g,Carbohydrate density,g/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,fibre_g_per_100g,Dietary fibre density,g/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,potassium_mg_per_100g,Potassium density,mg/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,sodium_mg_per_100g,Sodium density,mg/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,calcium_mg_per_100g,Calcium density,mg/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,iron_mg_per_100g,Iron density,mg/100g,DERIVED,>= 0.0 or NaN,NaN for UNAVAILABLE
+ingredient_nutrition_final.csv,data_source,Authoritative database providing data,dimensionless,DERIVED,"IFCT_2017, EXTERNAL_REFERENCE, UNAVAILABLE",Provenance
+ingredient_nutrition_final.csv,source_reference,Bibliographic reference code,dimensionless,DERIVED,Citation string,Citation
+ingredient_nutrition_final.csv,data_status,Validation status,dimensionless,DERIVED,"VERIFIED, APPROXIMATE, ESTIMATED, UNAVAILABLE",Status
+ingredient_nutrition_final.csv,notes,Explanatory notes,dimensionless,DERIVED,String,Notes
+dish_ingredients_final.csv,dish,Canonical dish name,dimensionless,DERIVED,132 canonical dishes,Composite Key
+dish_ingredients_final.csv,ingredient,Canonical ingredient name,dimensionless,DERIVED,80 canonical ingredients,Composite Key
+dish_ingredients_final.csv,quantity_g,Raw ingredient weight per single serving,g,PROJECT_ASSUMPTION,> 0.0,Raw commodity weight
+dish_ingredients_final.csv,quantity_basis,Basis of measurement,dimensionless,DERIVED,RAW_INGREDIENT_GRAM_PER_SERVING,No cooked weight
+dish_ingredients_final.csv,source_type,Source provenance classification,dimensionless,DERIVED,PROJECT_ASSUMPTION,Modeling assumption
+dish_ingredients_final.csv,source_reference,Reference catalog identifier,dimensionless,DERIVED,PROJECT_PORTION_ASSUMPTIONS,Citation
+dish_ingredients_final.csv,mapping_status,Ingredient mapping status,dimensionless,DERIVED,"VERIFIED, APPROXIMATE, UNMAPPED",Propagated status
+dish_ingredients_final.csv,confidence,Mapping confidence score,score (0.0 - 1.0),DERIVED,0.0 to 1.0,Confidence
+dish_ingredients_final.csv,notes,Culinary role of the ingredient in the dish,dimensionless,DERIVED,String,Recipe explanation
+portion_assumptions.csv,dish,Canonical dish name,dimensionless,DERIVED,String,Dish
+portion_assumptions.csv,ingredient,Canonical ingredient name,dimensionless,DERIVED,String,Ingredient
+portion_assumptions.csv,quantity_g,Raw portion quantity,g,PROJECT_ASSUMPTION,> 0.0,Grams
+portion_assumptions.csv,basis,Portion basis,dimensionless,DERIVED,RAW_INGREDIENT_GRAM_PER_SERVING,Raw basis
+portion_assumptions.csv,source,Assumption source reference,dimensionless,DERIVED,PROJECT_PORTION_ASSUMPTIONS,Source
+portion_assumptions.csv,source_type,Provenance classification,dimensionless,DERIVED,PROJECT_ASSUMPTION,Class
+portion_assumptions.csv,reason,Culinary modeling rationale,dimensionless,DERIVED,String,Reason
+portion_assumptions.csv,notes,Additional descriptive notes,dimensionless,DERIVED,String,Notes
+dish_nutrition_final.csv,dish,Canonical dish name,dimensionless,DERIVED,132 canonical dishes,Primary Key
+dish_nutrition_final.csv,serving_size_g,Total raw ingredient weight per single serving,g,PROJECT_ASSUMPTION,> 0.0,Raw commodity sum
+dish_nutrition_final.csv,ingredient_count,Number of distinct ingredients,count,DERIVED,>= 1,Count
+dish_nutrition_final.csv,data_coverage_percent,Percentage of ingredients mapped,%,DERIVED,0.0 - 100.0,Coverage
+dish_nutrition_final.csv,calculation_status,Completeness classification status,dimensionless,DERIVED,"COMPLETE_IFCT, ASSUMPTION_INCLUDED, EXTERNAL_DATA_INCLUDED, PARTIAL_IFCT, INSUFFICIENT_DATA",Badge
+dish_nutrition_final.csv,energy_kcal,Serving energy,kcal,DERIVED,>= 0.0 or NaN,NaN for INSUFFICIENT_DATA
+dish_nutrition_final.csv,protein_g,Serving protein,g,DERIVED,>= 0.0 or NaN,Protein
+dish_nutrition_final.csv,fat_g,Serving fat,g,DERIVED,>= 0.0 or NaN,Fat
+dish_nutrition_final.csv,carbohydrate_g,Serving carbohydrate,g,DERIVED,>= 0.0 or NaN,Carbohydrate
+dish_nutrition_final.csv,fibre_g,Serving dietary fibre,g,DERIVED,>= 0.0 or NaN,Fibre
+dish_nutrition_final.csv,potassium_mg,Serving potassium,mg,DERIVED,>= 0.0 or NaN,Potassium
+dish_nutrition_final.csv,sodium_mg,Serving sodium (intrinsic biological only),mg,IFCT_DERIVED,>= 0.0 or NaN,Strict lower bound
+dish_nutrition_final.csv,calcium_mg,Serving calcium,mg,DERIVED,>= 0.0 or NaN,Calcium
+dish_nutrition_final.csv,iron_mg,Serving iron,mg,DERIVED,>= 0.0 or NaN,Iron
+dish_nutrition_coverage.csv,dish,Canonical dish name,dimensionless,DERIVED,String,Primary Key
+dish_nutrition_coverage.csv,total_ingredients,Total ingredients in recipe,count,DERIVED,>= 1,Count
+dish_nutrition_coverage.csv,mapped_ingredients,Count of mapped ingredients,count,DERIVED,>= 0,Mapped
+dish_nutrition_coverage.csv,unmapped_ingredients,Count of unmapped ingredients,count,DERIVED,>= 0,Unmapped
+dish_nutrition_coverage.csv,ifct_coverage_percent,Coverage percentage,%,DERIVED,0.0 - 100.0,Coverage
+dish_nutrition_coverage.csv,assumption_count,Count of approximate assumptions,count,DERIVED,>= 0,Assumptions
+dish_nutrition_coverage.csv,external_data_count,Count of external reference items,count,DERIVED,>= 0,External
+dish_nutrition_coverage.csv,calculation_status,Status badge,dimensionless,DERIVED,"COMPLETE_IFCT, ASSUMPTION_INCLUDED, EXTERNAL_DATA_INCLUDED, PARTIAL_IFCT, INSUFFICIENT_DATA",Status
+mess_menu_final.csv,menu_row_id,Synthetic primary key for normalized menu entries,dimensionless,DERIVED,1 - 635,Primary Key
+mess_menu_final.csv,original_date,Pristine raw date string from mess_menu.csv,dimensionless,INSTITUTIONAL_DATA,String,Provenance
+mess_menu_final.csv,normalized_date,Standardized ISO calendar date,dimensionless,DERIVED,2026-10-01 to 2026-10-31,ISO YYYY-MM-DD
+mess_menu_final.csv,original_meal,Pristine raw meal slot string from mess_menu.csv,dimensionless,INSTITUTIONAL_DATA,"Lunch, Breakfast, Dinner, E-Tea, Girls Hostel, Dessert",Provenance
+mess_menu_final.csv,normalized_meal,Standardized operational meal slot,dimensionless,DERIVED,"BREAKFAST, LUNCH, DINNER, E_TEA",Operational slot
+mess_menu_final.csv,hostel_scope,Dining facility applicability scope,dimensionless,DERIVED,"COMMON, GIRLS_HOSTEL",Facility filter
+mess_menu_final.csv,original_dish,Pristine raw dish string from mess_menu.csv,dimensionless,INSTITUTIONAL_DATA,String,Provenance
+mess_menu_final.csv,canonical_dish,Canonical culinary dish name,dimensionless,DERIVED,132 canonical dishes,Foreign Key to dish_nutrition
+mess_menu_final.csv,is_dessert_flag,Boolean flag indicating dessert course,boolean,DERIVED,"True, False",Dinner dessert indicator
+mess_menu_final.csv,provenance_notes,Transformation and derivation notes,dimensionless,DERIVED,String,Row provenance
+dish_classification_final.csv,canonical_dish,Canonical culinary dish name,dimensionless,DERIVED,132 canonical dishes,Primary Key
+dish_classification_final.csv,plate_role,Domain dietary plate grammar role,dimensionless,PROJECT_DESIGN_CHOICE,"STAPLE, DAL_PROTEIN, DRY_SABZI, GRAVY_SABZI, SNACK, BEVERAGE, DESSERT, ACCOMPANIMENT",Plate grammar
+dish_classification_final.csv,dietary_tag,Dietary lifestyle classification derived from ingredients,dimensionless,DERIVED,"VEGETARIAN, EGGETARIAN, NON_VEG",Conservative inheritance
+dish_classification_final.csv,allowed_slots,Comma-separated list of operational slots where dish appears,dimensionless,DERIVED,"Subsets of BREAKFAST, LUNCH, DINNER, E_TEA",Scheduling filter
+dish_classification_final.csv,source_class,Data provenance classification,dimensionless,DERIVED,PROJECT_DESIGN_CHOICE,Design choice
+bmi_rules.csv,standard,Authoritative clinical classification standard,dimensionless,PRIMARY_LITERATURE,"ASIAN_INDIAN_MISRA2009, WHO_INTERNATIONAL",Classification guideline
+bmi_rules.csv,category,Weight status category name,dimensionless,PRIMARY_LITERATURE,"UNDERWEIGHT, NORMAL, OVERWEIGHT, OBESE",Risk tier
+bmi_rules.csv,min_bmi,Inclusive lower BMI boundary for category,kg/m^2,PRIMARY_LITERATURE,>= 0.0,Lower cutoff
+bmi_rules.csv,max_bmi,Inclusive upper BMI boundary for category,kg/m^2,PRIMARY_LITERATURE,<= 100.0,Upper cutoff
+bmi_rules.csv,source_id,Foreign key to source_registry.csv,dimensionless,DERIVED,"SRC_MISRA_2009, SRC_WHO_2000",Source FK
+bmi_rules.csv,citation,Formal bibliographic citation for cutoff,dimensionless,DERIVED,String,Citation
+bmi_rules.csv,notes,Clinical cardiometabolic risk interpretation,dimensionless,DERIVED,String,Clinical note
+rda_targets.csv,sex,Biological sex,dimensionless,PRIMARY_LITERATURE,"MALE, FEMALE",Sex
+rda_targets.csv,reference_weight_kg,Reference body weight for adult Indian,kg,PRIMARY_LITERATURE,"55.0, 65.0",ICMR-NIN 2020 reference weight
+rda_targets.csv,activity_level,Physical activity level category,dimensionless,PRIMARY_LITERATURE,"SEDENTARY, MODERATE, HEAVY",Activity category
+rda_targets.csv,pal,Physical activity level multiplier,ratio,PRIMARY_LITERATURE,"1.40, 1.75, 2.20",PAL factor
+rda_targets.csv,energy_kcal,Daily Total Energy Expenditure recommendation,kcal,PRIMARY_LITERATURE,> 0.0,TEE
+rda_targets.csv,protein_g,Daily Recommended Dietary Allowance for protein,g,PRIMARY_LITERATURE,> 0.0,RDA protein
+rda_targets.csv,fat_g,Daily fat intake target (25% total energy),g,DERIVED,> 0.0,25% of kcal
+rda_targets.csv,carbohydrate_g,Daily carbohydrate intake target,g,DERIVED,> 0.0,Remainder of kcal
+rda_targets.csv,fibre_g,Daily dietary fibre recommendation (30g/2000kcal),g,PRIMARY_LITERATURE,> 0.0,Safe intake
+rda_targets.csv,calcium_mg,Daily Recommended Dietary Allowance for calcium,mg,PRIMARY_LITERATURE,1000.0,Adult RDA
+rda_targets.csv,iron_mg,Daily Recommended Dietary Allowance for iron,mg,PRIMARY_LITERATURE,"19.0, 29.0",Sex differentiated
+rda_targets.csv,potassium_mg,Daily adequate intake for potassium,mg,PRIMARY_LITERATURE,3500.0,AI
+rda_targets.csv,sodium_max_mg,Daily safe upper limit for sodium intake,mg,PRIMARY_LITERATURE,2000.0,Safe limit
+rda_targets.csv,source_id,Foreign key to source_registry.csv,dimensionless,DERIVED,SRC_ICMR_NIN_2020,Source FK
+rda_targets.csv,notes,Descriptive reference annotation,dimensionless,DERIVED,String,Report notes
+health_rules.csv,rule_id,Unique identifier for clinical health rule,dimensionless,DERIVED,"HR_DIAB_*, HR_HTN_*, HR_PCOS_*, HR_OBES_*",Primary Key
+health_rules.csv,condition,Clinical health condition targeted,dimensionless,PRIMARY_LITERATURE,"DIABETES, HYPERTENSION, PCOS, OBESITY",Condition
+health_rules.csv,rule_type,Enforcement severity type,dimensionless,PROJECT_DESIGN_CHOICE,"HARD_CONSTRAINT, SOFT_PENALTY, PROMOTION",Severity
+health_rules.csv,target_attribute,Evaluated dish attribute,dimensionless,PROJECT_DESIGN_CHOICE,"plate_role, canonical_dish, ingredient, glycemic_index, sodium_mg, carbohydrate_g",Attribute
+health_rules.csv,operator,Comparison operator,dimensionless,PROJECT_DESIGN_CHOICE,"EQUALS, IN, CONTAINS, LESS_THAN",Operator
+health_rules.csv,threshold_or_value,Comparison threshold or match value,dimensionless,PROJECT_DESIGN_CHOICE,String or float,Value
+health_rules.csv,action,Recommender action executed on match,dimensionless,PROJECT_DESIGN_CHOICE,"EXCLUDE, PENALIZE_SCORE, BOOST_SCORE",Action
+health_rules.csv,status,Active operational status,dimensionless,DERIVED,"ACTIVE_VERIFIED, DISABLED_UNSOURCED",Integrity filter
+health_rules.csv,provenance_type,Clinical evidence tier,dimensionless,DERIVED,"PRIMARY_LITERATURE, NEEDS_SOURCE",Provenance tier
+health_rules.csv,source_id,Foreign key to source_registry.csv,dimensionless,DERIVED,"SRC_*, NEEDS_SOURCE",Source FK
+health_rules.csv,citation,Formal bibliographic citation,dimensionless,DERIVED,String or UNGROUNDED,Citation
+health_rules.csv,rationale,Clinical medical nutrition rationale,dimensionless,DERIVED,String,Clinical justification
+canteen_extras.csv,dish,Canonical dish name of canteen extra,dimensionless,DERIVED,String,Primary Key
+canteen_extras.csv,plate_role,Plate grammar role,dimensionless,PROJECT_DESIGN_CHOICE,"DAL_PROTEIN, ACCOMPANIMENT, BEVERAGE, STAPLE",Role
+canteen_extras.csv,dietary_tag,Dietary classification tag,dimensionless,DERIVED,"VEGETARIAN, EGGETARIAN, NON_VEG",Diet
+canteen_extras.csv,price_inr,Retail canteen purchase price,INR,INSTITUTIONAL_DATA,> 0.0,Price
+canteen_extras.csv,energy_kcal,Serving energy,kcal,DERIVED,> 0.0,Verified IFCT energy
+canteen_extras.csv,protein_g,Serving protein,g,DERIVED,>= 0.0,Protein
+canteen_extras.csv,fat_g,Serving fat,g,DERIVED,>= 0.0,Fat
+canteen_extras.csv,carbohydrate_g,Serving carbohydrate,g,DERIVED,>= 0.0,Carbohydrate
+canteen_extras.csv,fibre_g,Serving dietary fibre,g,DERIVED,>= 0.0,Fibre
+canteen_extras.csv,calcium_mg,Serving calcium,mg,DERIVED,>= 0.0,Calcium
+canteen_extras.csv,iron_mg,Serving iron,mg,DERIVED,>= 0.0,Iron
+canteen_extras.csv,potassium_mg,Serving potassium,mg,DERIVED,>= 0.0,Potassium
+canteen_extras.csv,sodium_mg,Serving sodium (natural biological only),mg,IFCT_DERIVED,>= 0.0,Sodium
+canteen_extras.csv,calculation_status,Nutritional calculation verification badge,dimensionless,DERIVED,"COMPLETE_IFCT, ASSUMPTION_INCLUDED",Strict non-NaN status
+canteen_extras.csv,notes,Culinary and nutritional description,dimensionless,DERIVED,String,Item description

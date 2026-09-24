@@ -1,0 +1,81 @@
+ingredient_id,canonical_ingredient_name,category,source_class
+ING_001,"Wheat flour, atta",Cereal,DERIVED
+ING_002,"Wheat flour, refined",Cereal,DERIVED
+ING_003,"Rice, raw/parboiled",Cereal,DERIVED
+ING_004,"Rice, flakes",Cereal,DERIVED
+ING_005,"Rice, puffed",Cereal,DERIVED
+ING_006,"Wheat, semolina",Cereal,DERIVED
+ING_007,"Wheat, vermicelli",Cereal,DERIVED
+ING_008,"Wheat, bulgur",Cereal,DERIVED
+ING_009,"Bengal gram, dal",Pulse,DERIVED
+ING_010,"Bengal gram, whole",Pulse,DERIVED
+ING_011,"Bengal gram, flour",Pulse,DERIVED
+ING_012,Kabuli chana,Pulse,DERIVED
+ING_013,"Green gram, dal",Pulse,DERIVED
+ING_014,"Green gram, whole",Pulse,DERIVED
+ING_015,"Lentil, dal",Pulse,DERIVED
+ING_016,"Lentil, whole",Pulse,DERIVED
+ING_017,"Red gram, dal",Pulse,DERIVED
+ING_018,"Black gram, dal",Pulse,DERIVED
+ING_019,"Black gram, whole",Pulse,DERIVED
+ING_020,Cowpea,Pulse,DERIVED
+ING_021,Kidney beans,Pulse,DERIVED
+ING_022,Soyabean chunks,Pulse,DERIVED
+ING_023,Green peas,Pulse,DERIVED
+ING_024,Potato,Vegetable,DERIVED
+ING_025,Onion,Vegetable,DERIVED
+ING_026,Tomato,Vegetable,DERIVED
+ING_027,Ginger,Vegetable,DERIVED
+ING_028,Garlic,Vegetable,DERIVED
+ING_029,Green chilli,Vegetable,DERIVED
+ING_030,Cauliflower,Vegetable,DERIVED
+ING_031,Cabbage,Vegetable,DERIVED
+ING_032,"Capsicum, green",Vegetable,DERIVED
+ING_033,Spinach,Vegetable,DERIVED
+ING_034,Bottle gourd,Vegetable,DERIVED
+ING_035,Pumpkin,Vegetable,DERIVED
+ING_036,Cucumber,Vegetable,DERIVED
+ING_037,Beetroot,Vegetable,DERIVED
+ING_038,Sweet corn,Vegetable,DERIVED
+ING_039,Carrot,Vegetable,DERIVED
+ING_040,French beans,Vegetable,DERIVED
+ING_041,Lemon,Vegetable,DERIVED
+ING_042,Coriander leaves,Vegetable,DERIVED
+ING_043,Mint leaves,Vegetable,DERIVED
+ING_044,Banana,Fruit,DERIVED
+ING_045,"Milk, whole, cow",Dairy,DERIVED
+ING_046,Paneer,Dairy,DERIVED
+ING_047,Curd / Dahi,Dairy,DERIVED
+ING_048,Khoa,Dairy,DERIVED
+ING_049,Condensed milk,Dairy,DERIVED
+ING_050,"Chicken meat, breast",Poultry,DERIVED
+ING_051,"Egg, whole",Egg,DERIVED
+ING_052,Vegetable oil,Fat/Oil,DERIVED
+ING_053,Ghee,Fat/Oil,DERIVED
+ING_054,Butter,Fat/Oil,DERIVED
+ING_055,Cumin seeds,Spice,DERIVED
+ING_056,Groundnut / Peanut,Nut/Seed,DERIVED
+ING_057,"Coconut, dry",Nut/Seed,DERIVED
+ING_058,"Sugar, refined",Sweetener,DERIVED
+ING_059,Jaggery,Sweetener,DERIVED
+ING_060,Tapioca pearls,Cereal,DERIVED
+ING_061,Tea leaves,Spice,DERIVED
+ING_062,Coffee powder,Spice,DERIVED
+ING_063,Commercial biscuit,Commercial,DERIVED
+ING_064,Commercial chips,Commercial,DERIVED
+ING_065,Commercial bread,Commercial,DERIVED
+ING_066,Commercial bun,Commercial,DERIVED
+ING_067,Commercial muffin,Commercial,DERIVED
+ING_068,Commercial brownie,Commercial,DERIVED
+ING_069,Commercial cream roll,Commercial,DERIVED
+ING_070,Commercial chocolate,Commercial,DERIVED
+ING_071,Commercial tea cake,Commercial,DERIVED
+ING_072,Commercial rusk,Commercial,DERIVED
+ING_073,Commercial namkeen,Commercial,DERIVED
+ING_074,Commercial fryums,Commercial,DERIVED
+ING_075,Commercial pasta,Commercial,DERIVED
+ING_076,Commercial cornflakes,Commercial,DERIVED
+ING_077,Commercial tomato ketchup,Commercial,DERIVED
+ING_078,Commercial jam,Commercial,DERIVED
+ING_079,Commercial pickle,Commercial,DERIVED
+ING_080,Commercial fat spread,Commercial,DERIVED

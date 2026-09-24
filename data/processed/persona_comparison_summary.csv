@@ -1,0 +1,6 @@
+persona,success_rate_percent,total_violations,mean_plate_score,mean_energy_error_kcal,constraint_violation_rate_cvr
+Persona_A_Diabetic_Female,96.8,0,141.88,58.3,0.0
+Persona_B_Hypertensive_Male,96.8,0,104.93,225.2,0.0
+Persona_C_Athlete_Eggetarian,96.8,0,85.0,577.3,0.0
+Persona_D_PCOS_Female,96.8,0,129.98,170.3,0.0
+Persona_E_Healthy_Control,96.8,0,93.02,362.7,0.0

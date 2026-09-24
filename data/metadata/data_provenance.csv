@@ -1,0 +1,14 @@
+dataset,column_or_value,source_type,source,source_url,method,notes
+ifct_2017_clean.csv,energy_kcal_per_100g,IFCT_DERIVED,SRC_IFCT2017_REPO,https://github.com/nodef/ifct2017,enerc (kJ) / 4.184; Group T fatce * 9.0 kcal/g,Converted from kJ to kcal; oils resolved via FAO 2003 Atwater factor
+ifct_2017_clean.csv,calcium_mg_per_100g,IFCT_DERIVED,SRC_IFCT2017_REPO,https://github.com/nodef/ifct2017,ca (g) * 1000.0,Converted from g/100g to mg/100g
+ifct_2017_clean.csv,dietary_tag,IFCT_DERIVED,SRC_IFCT2017_REPO,https://github.com/nodef/ifct2017,Derived from tags string,"Mapped to VEGETARIAN (328), EGGETARIAN (15), NON_VEG (199)"
+ingredient_master.csv,canonical_ingredient_name,DERIVED,SRC_HOSTEL_MENU,LOCAL_WORKSPACE:mess_menu.csv,Culinary decomposition of 153 menu dishes,80 canonical raw ingredients
+dish_ingredients_final.csv,quantity_g,PROJECT_ASSUMPTION,SRC_PROJECT_PORTIONS,LOCAL_CONFIG:config/dish_templates.yaml,Standardized raw-ingredient-gram issuance per single serving,No cooked weight; 5g oil uniform assumption
+dish_nutrition_final.csv,energy_kcal,DERIVED,SRC_IFCT2017_PUB,https://www.nin.res.in,sum((quantity_g / 100) * energy_kcal_per_100g),Propagates NaN for INSUFFICIENT_DATA dishes
+dish_nutrition_final.csv,sodium_mg,IFCT_DERIVED,SRC_IFCT2017_PUB,https://www.nin.res.in,sum((quantity_g / 100) * sodium_mg_per_100g),Strict lower bound: natural food sodium only; excludes added table salt
+mess_menu_final.csv,normalized_meal,DERIVED,SRC_HOSTEL_MENU,LOCAL_WORKSPACE:mess_menu.csv,Canonical slot normalization; Girls Hostel -> E_TEA (scope=GIRLS_HOSTEL),4 canonical slots
+dish_classification_final.csv,plate_role,PROJECT_DESIGN_CHOICE,SRC_PROJECT_PORTIONS,LOCAL_CONFIG:config/dish_templates.yaml,"Plate grammar role taxonomy (STAPLE, DAL_PROTEIN, etc.)",8 plate grammar roles
+bmi_rules.csv,"min_bmi,max_bmi",PRIMARY_LITERATURE,SRC_MISRA_2009,https://pubmed.ncbi.nlm.nih.gov/19582986/,"Consensus cut-offs (<18.5, 18.5-22.9, 23.0-24.9, >=25.0)",Official Asian Indian consensus guideline
+rda_targets.csv,"energy_kcal,protein_g,minerals",PRIMARY_LITERATURE,SRC_ICMR_NIN_2020,https://www.nin.res.in,ICMR-NIN 2020 reference tables,Official adult RDA and PAL reference matrix
+health_rules.csv,"action,status",PRIMARY_LITERATURE,SRC_ICMR_DIAB_2018,https://www.icmr.gov.in,Clinical guidelines filter engine; ungrounded rules DISABLED_UNSOURCED,"16 clinical rules (11 active, 5 disabled)"
+canteen_extras.csv,"price_inr,energy_kcal",DERIVED,SRC_IFCT2017_PUB,https://www.nin.res.in,Budget knapsack optimization using strictly verified IFCT nutrient items,8 verified canteen items with verified non-NaN nutrition
