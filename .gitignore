@@ -19,9 +19,7 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Generated data (since run_pipeline.py regenerates these from raw+config)
-data/processed/*.csv
-data/metadata/*.csv
+
 
 # Scratch / browser profile folders — never commit these
 scratch/
