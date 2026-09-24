@@ -1,0 +1,9 @@
+dish,plate_role,dietary_tag,price_inr,energy_kcal,protein_g,fat_g,carbohydrate_g,fibre_g,calcium_mg,iron_mg,potassium_mg,sodium_mg,calculation_status,notes
+Boiled Egg,DAL_PROTEIN,EGGETARIAN,10.0,86.5,6.67,6.18,0.78,0.0,27.56,1.06,63.5,66.0,COMPLETE_IFCT,Single hard-boiled egg (50g raw whole egg); excellent bioavailable protein
+Omelette,DAL_PROTEIN,EGGETARIAN,25.0,195.4,14.07,13.78,2.75,0.48,31.97,2.22,112.67,143.5,COMPLETE_IFCT,Two-egg omelette (100g egg) with onion and tomato
+Plain Curd,ACCOMPANIMENT,VEGETARIAN,15.0,60.8,3.1,4.0,3.0,0.0,118.0,0.2,115.0,20.0,ASSUMPTION_INCLUDED,100g whole milk curd; source of calcium and probiotics
+Milk,BEVERAGE,VEGETARIAN,20.0,145.8,6.56,8.28,10.12,0.0,177.0,0.2,172.5,40.0,COMPLETE_IFCT,200ml boiled whole cow milk; calcium and energy density
+Banana,ACCOMPANIMENT,VEGETARIAN,10.0,116.0,1.2,0.3,27.2,0.4,6.77,0.36,362.0,3.0,COMPLETE_IFCT,100g fresh robusta banana; potassium dense (362mg)
+Green Salad,ACCOMPANIMENT,VEGETARIAN,15.0,32.4,1.4,0.4,5.4,2.5,11.66,0.58,127.35,8.2,COMPLETE_IFCT,100g mixed raw cucumber tomato onion radish carrot; low-calorie fibre
+Chaas,BEVERAGE,VEGETARIAN,15.0,74.5,1.55,3.0,5.06,0.0,79.58,0.1,87.86,40.0,ASSUMPTION_INCLUDED,200ml spiced salted buttermilk; low-energy digestive beverage
+Besan Chilla,STAPLE,VEGETARIAN,25.0,166.8,7.78,6.48,18.82,4.8,32.1,1.86,280.0,18.0,COMPLETE_IFCT,Chickpea flour savory pancake (50g raw besan); high plant protein

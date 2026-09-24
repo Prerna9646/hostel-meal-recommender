@@ -1,0 +1,1647 @@
+version: 1.0.0
+description: Portion assumptions and raw-ingredient-gram recipes for all 132 canonical
+  hostel dishes.
+basis: RAW_INGREDIENT_GRAM_PER_SERVING
+provenance: PROJECT_ASSUMPTION
+dishes:
+  Aloo:
+  - ingredient: Potato
+    quantity_g: 70.0
+    reason: Boiled potato single portion
+  Aloo Bhaji:
+  - ingredient: Potato
+    quantity_g: 60.0
+    reason: Diced potato
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Sautéed onion
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Green chilli
+  Aloo Bonda:
+  - ingredient: Potato
+    quantity_g: 40.0
+    reason: Spiced potato ball
+  - ingredient: Bengal gram, flour
+    quantity_g: 20.0
+    reason: Besan batter coat
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Deep frying oil uptake
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Green chilli
+  Aloo Cabbage Matar:
+  - ingredient: Potato
+    quantity_g: 35.0
+    reason: Diced potato
+  - ingredient: Cabbage
+    quantity_g: 30.0
+    reason: Shredded cabbage
+  - ingredient: Green peas
+    quantity_g: 20.0
+    reason: Fresh green peas
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Aloo Capsicum:
+  - ingredient: Potato
+    quantity_g: 40.0
+    reason: Diced potato
+  - ingredient: Capsicum, green
+    quantity_g: 30.0
+    reason: Diced green bell pepper
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Aloo Matar:
+  - ingredient: Potato
+    quantity_g: 45.0
+    reason: Diced potato
+  - ingredient: Green peas
+    quantity_g: 25.0
+    reason: Fresh green peas
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Aloo Onion Kadhi:
+  - ingredient: Bengal gram, flour
+    quantity_g: 20.0
+    reason: Besan kadhi base
+  - ingredient: Curd / Dahi
+    quantity_g: 30.0
+    reason: Sour curd for kadhi
+  - ingredient: Potato
+    quantity_g: 25.0
+    reason: Diced potato
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Sliced onion
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Amritsari Badi:
+  - ingredient: Black gram, dal
+    quantity_g: 25.0
+    reason: Urad dal wadi/dumpling base
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 2.0
+    reason: Fresh ginger
+  Banana:
+  - ingredient: Banana
+    quantity_g: 100.0
+    reason: Single medium whole raw edible banana
+  Beetroot Cucumber Salad:
+  - ingredient: Beetroot
+    quantity_g: 35.0
+    reason: Fresh grated/sliced beetroot
+  - ingredient: Cucumber
+    quantity_g: 35.0
+    reason: Fresh sliced cucumber
+  - ingredient: Lemon
+    quantity_g: 5.0
+    reason: Lemon juice dressing
+  Besan Chilla:
+  - ingredient: Bengal gram, flour
+    quantity_g: 35.0
+    reason: Gram flour batter
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Chopped onion
+  - ingredient: Tomato
+    quantity_g: 5.0
+    reason: Chopped tomato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Pan frying oil
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Green chilli
+  Besan Ka Halwa:
+  - ingredient: Bengal gram, flour
+    quantity_g: 25.0
+    reason: Roasted besan
+  - ingredient: Ghee
+    quantity_g: 15.0
+    reason: Ghee
+  - ingredient: Sugar, refined
+    quantity_g: 15.0
+    reason: Refined sugar
+  - ingredient: Milk, whole, cow
+    quantity_g: 30.0
+    reason: Whole milk
+  Biscuit:
+  - ingredient: Commercial biscuit
+    quantity_g: 25.0
+    reason: Packaged biscuits portion
+  Black Chana:
+  - ingredient: Bengal gram, whole
+    quantity_g: 30.0
+    reason: Raw kala chana issuance
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 2.0
+    reason: Fresh ginger
+  Black Dal Tadka:
+  - ingredient: Black gram, whole
+    quantity_g: 30.0
+    reason: Raw sabut urad issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Garlic cloves
+  Boiled Egg:
+  - ingredient: Egg, whole
+    quantity_g: 50.0
+    reason: Single large whole boiled poultry egg
+  Boondi Raita:
+  - ingredient: Curd / Dahi
+    quantity_g: 80.0
+    reason: Curd base
+  - ingredient: Bengal gram, flour
+    quantity_g: 15.0
+    reason: Boondi gram flour
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Boondi frying oil uptake
+  Bread:
+  - ingredient: Commercial bread
+    quantity_g: 50.0
+    reason: Two slices white bread
+  Bread Pakora:
+  - ingredient: Commercial bread
+    quantity_g: 30.0
+    reason: Single white bread slice
+  - ingredient: Potato
+    quantity_g: 25.0
+    reason: Potato stuffing
+  - ingredient: Bengal gram, flour
+    quantity_g: 20.0
+    reason: Besan batter coat
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Deep frying oil uptake
+  Brownie:
+  - ingredient: Commercial brownie
+    quantity_g: 40.0
+    reason: Single commercial chocolate brownie
+  Butter Chicken:
+  - ingredient: Chicken meat, breast
+    quantity_g: 80.0
+    reason: Skinless chicken meat portion
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Makhani tomato gravy base
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion base
+  - ingredient: Butter
+    quantity_g: 6.0
+    reason: Butter enrichment
+  - ingredient: Milk, whole, cow
+    quantity_g: 10.0
+    reason: Milk/cream enrichment
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Chaas:
+  - ingredient: Curd / Dahi
+    quantity_g: 60.0
+    reason: Diluted curd buttermilk base
+  - ingredient: Cumin seeds
+    quantity_g: 1.0
+    reason: Roasted cumin
+  Chana Dal Tadka:
+  - ingredient: Bengal gram, dal
+    quantity_g: 30.0
+    reason: Raw chana dal issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Garlic cloves
+  - ingredient: Cumin seeds
+    quantity_g: 1.0
+    reason: Cumin tempering
+  Chana Peanut Salad:
+  - ingredient: Bengal gram, whole
+    quantity_g: 30.0
+    reason: Boiled kala chana
+  - ingredient: Groundnut / Peanut
+    quantity_g: 15.0
+    reason: Roasted peanuts
+  - ingredient: Cucumber
+    quantity_g: 20.0
+    reason: Diced cucumber
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Diced tomato
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Diced onion
+  - ingredient: Lemon
+    quantity_g: 5.0
+    reason: Lemon juice dressing
+  Chana Toor Dal:
+  - ingredient: Bengal gram, dal
+    quantity_g: 15.0
+    reason: Chana dal component
+  - ingredient: Red gram, dal
+    quantity_g: 15.0
+    reason: Toor dal component
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Chapati:
+  - ingredient: Wheat flour, atta
+    quantity_g: 30.0
+    reason: Single chapati standard raw flour weight
+  Chicken Curry:
+  - ingredient: Chicken meat, breast
+    quantity_g: 80.0
+    reason: Skinless chicken meat portion
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Tomato gravy base
+  - ingredient: Onion
+    quantity_g: 20.0
+    reason: Onion gravy base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 3.0
+    reason: Fresh ginger paste
+  - ingredient: Garlic
+    quantity_g: 3.0
+    reason: Fresh garlic paste
+  Chicken Kolhapuri:
+  - ingredient: Chicken meat, breast
+    quantity_g: 80.0
+    reason: Skinless chicken meat portion
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Spicy Kolhapuri gravy
+  - ingredient: Onion
+    quantity_g: 20.0
+    reason: Onion gravy base
+  - ingredient: Coconut, dry
+    quantity_g: 6.0
+    reason: Roasted desiccated coconut
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 3.0
+    reason: Fresh ginger paste
+  - ingredient: Garlic
+    quantity_g: 3.0
+    reason: Fresh garlic paste
+  Chips:
+  - ingredient: Commercial chips
+    quantity_g: 25.0
+    reason: Packaged potato chips portion
+  Chocolate:
+  - ingredient: Commercial chocolate
+    quantity_g: 20.0
+    reason: Commercial chocolate candy portion
+  Chocolate Pie:
+  - ingredient: Commercial chocolate
+    quantity_g: 40.0
+    reason: Commercial bakery chocolate pie portion
+  Chole Bhature:
+  - ingredient: Wheat flour, refined
+    quantity_g: 40.0
+    reason: Refined flour for bhature
+  - ingredient: Vegetable oil
+    quantity_g: 10.0
+    reason: Deep frying oil uptake for bhatura
+  - ingredient: Kabuli chana
+    quantity_g: 30.0
+    reason: Raw chickpea issuance
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Gravy onion
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Gravy tomato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Chole gravy cooking oil
+  Chutney:
+  - ingredient: Coriander leaves
+    quantity_g: 15.0
+    reason: Fresh coriander leaves
+  - ingredient: Mint leaves
+    quantity_g: 10.0
+    reason: Fresh mint leaves
+  - ingredient: Green chilli
+    quantity_g: 3.0
+    reason: Spicy green chilli
+  - ingredient: Lemon
+    quantity_g: 2.0
+    reason: Lemon juice
+  Coconut Laddu:
+  - ingredient: Coconut, dry
+    quantity_g: 30.0
+    reason: Desiccated coconut
+  - ingredient: Condensed milk
+    quantity_g: 25.0
+    reason: Condensed milk binder
+  - ingredient: Sugar, refined
+    quantity_g: 5.0
+    reason: Refined sugar
+  Coffee:
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Milk component in coffee cup
+  - ingredient: Sugar, refined
+    quantity_g: 8.0
+    reason: Refined sweetening sugar
+  - ingredient: Coffee powder
+    quantity_g: 2.0
+    reason: Brewed coffee grounds
+  Corn Peas Masala:
+  - ingredient: Sweet corn
+    quantity_g: 35.0
+    reason: Sweet corn kernels
+  - ingredient: Green peas
+    quantity_g: 35.0
+    reason: Green peas
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Cornflakes:
+  - ingredient: Commercial cornflakes
+    quantity_g: 30.0
+    reason: Breakfast cereal flakes single serving
+  Cream Roll:
+  - ingredient: Commercial cream roll
+    quantity_g: 35.0
+    reason: Single commercial bakery cream roll
+  Crispy Dal Kachori:
+  - ingredient: Wheat flour, refined
+    quantity_g: 35.0
+    reason: Kachori crust
+  - ingredient: Green gram, dal
+    quantity_g: 20.0
+    reason: Moong dal filling
+  - ingredient: Vegetable oil
+    quantity_g: 10.0
+    reason: Deep frying oil uptake
+  Cucumber Salad:
+  - ingredient: Cucumber
+    quantity_g: 60.0
+    reason: Fresh sliced cucumber
+  - ingredient: Lemon
+    quantity_g: 5.0
+    reason: Lemon juice dressing
+  Custard:
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Whole milk base
+  - ingredient: Sugar, refined
+    quantity_g: 12.0
+    reason: Refined sugar
+  - ingredient: Sweet corn
+    quantity_g: 10.0
+    reason: Cornstarch base proxy
+  Dahi Aloo:
+  - ingredient: Potato
+    quantity_g: 60.0
+    reason: Boiled potato
+  - ingredient: Curd / Dahi
+    quantity_g: 30.0
+    reason: Curd gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Cumin seeds
+    quantity_g: 2.0
+    reason: Tempering cumin
+  Dal Makhani:
+  - ingredient: Black gram, whole
+    quantity_g: 25.0
+    reason: Raw sabut urad issuance
+  - ingredient: Kidney beans
+    quantity_g: 5.0
+    reason: Raw rajma component
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato puree base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion gravy base
+  - ingredient: Butter
+    quantity_g: 5.0
+    reason: Butter enrichment
+  - ingredient: Milk, whole, cow
+    quantity_g: 10.0
+    reason: Milk/cream enrichment
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Dal Maratha:
+  - ingredient: Red gram, dal
+    quantity_g: 30.0
+    reason: Raw toor dal issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Coconut, dry
+    quantity_g: 5.0
+    reason: Roasted desiccated coconut
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Garlic cloves
+  Dal Palak:
+  - ingredient: Red gram, dal
+    quantity_g: 25.0
+    reason: Raw toor dal issuance
+  - ingredient: Spinach
+    quantity_g: 25.0
+    reason: Fresh chopped palak
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Danish Bun:
+  - ingredient: Commercial bun
+    quantity_g: 45.0
+    reason: Commercial bakery sweet bun
+  Dhaba Dal:
+  - ingredient: Red gram, dal
+    quantity_g: 10.0
+    reason: Toor dal component
+  - ingredient: Bengal gram, dal
+    quantity_g: 10.0
+    reason: Chana dal component
+  - ingredient: Green gram, dal
+    quantity_g: 10.0
+    reason: Moong dal component
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Garlic cloves
+  Dum Aloo:
+  - ingredient: Potato
+    quantity_g: 60.0
+    reason: Baby/cut potato
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion base
+  - ingredient: Curd / Dahi
+    quantity_g: 10.0
+    reason: Curd gravy base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Egg Bhurji:
+  - ingredient: Egg, whole
+    quantity_g: 50.0
+    reason: Single whole scrambled egg
+  - ingredient: Onion
+    quantity_g: 20.0
+    reason: Finely chopped onion
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Finely chopped tomato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Green chilli
+  Egg Curry:
+  - ingredient: Egg, whole
+    quantity_g: 50.0
+    reason: Single whole egg
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato curry base
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 2.0
+    reason: Ginger
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Garlic
+  Fat Spread:
+  - ingredient: Commercial fat spread
+    quantity_g: 10.0
+    reason: Commercial table fat spread portion
+  Fryums:
+  - ingredient: Commercial fryums
+    quantity_g: 25.0
+    reason: Fried extruded snack portion
+  Ghiya Masala:
+  - ingredient: Bottle gourd
+    quantity_g: 75.0
+    reason: Diced bottle gourd / lauki
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Gobhi Adraki:
+  - ingredient: Cauliflower
+    quantity_g: 65.0
+    reason: Cauliflower florets
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ginger
+    quantity_g: 5.0
+    reason: Julienned ginger
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Gobhi Matar:
+  - ingredient: Cauliflower
+    quantity_g: 45.0
+    reason: Cauliflower florets
+  - ingredient: Green peas
+    quantity_g: 25.0
+    reason: Fresh green peas
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Green Chilli:
+  - ingredient: Green chilli
+    quantity_g: 5.0
+    reason: Fresh green chilli garnish
+  Green Peas Masala:
+  - ingredient: Green peas
+    quantity_g: 60.0
+    reason: Fresh green peas
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Green Salad:
+  - ingredient: Cucumber
+    quantity_g: 25.0
+    reason: Fresh sliced cucumber
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Fresh sliced tomato
+  - ingredient: Onion
+    quantity_g: 20.0
+    reason: Fresh sliced onion
+  - ingredient: Lemon
+    quantity_g: 5.0
+    reason: Lemon juice dressing
+  Gulab Jamun:
+  - ingredient: Khoa
+    quantity_g: 30.0
+    reason: Mawa / khoa base
+  - ingredient: Wheat flour, refined
+    quantity_g: 10.0
+    reason: Maida binder
+  - ingredient: Sugar, refined
+    quantity_g: 15.0
+    reason: Sugar syrup uptake
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Frying ghee uptake
+  Halwa:
+  - ingredient: Wheat, semolina
+    quantity_g: 25.0
+    reason: Suji / semolina
+  - ingredient: Ghee
+    quantity_g: 15.0
+    reason: Ghee
+  - ingredient: Sugar, refined
+    quantity_g: 15.0
+    reason: Refined sugar
+  Jam:
+  - ingredient: Commercial jam
+    quantity_g: 15.0
+    reason: Single commercial fruit jam portion
+  Jeera Aloo:
+  - ingredient: Potato
+    quantity_g: 70.0
+    reason: Diced potato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Cumin seeds
+    quantity_g: 2.0
+    reason: Cumin tempering
+  Jeera Raita:
+  - ingredient: Curd / Dahi
+    quantity_g: 95.0
+    reason: Curd base
+  - ingredient: Cumin seeds
+    quantity_g: 2.0
+    reason: Roasted cumin powder
+  Jeera Rice:
+  - ingredient: Rice, raw/parboiled
+    quantity_g: 50.0
+    reason: Standard single serving raw rice grain
+  - ingredient: Ghee
+    quantity_g: 3.0
+    reason: Tempering fat
+  - ingredient: Cumin seeds
+    quantity_g: 1.0
+    reason: Cumin tempering
+  Jhal Muri:
+  - ingredient: Rice, puffed
+    quantity_g: 25.0
+    reason: Puffed rice base
+  - ingredient: Groundnut / Peanut
+    quantity_g: 10.0
+    reason: Roasted peanuts
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Finely chopped onion
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Finely chopped tomato
+  - ingredient: Vegetable oil
+    quantity_g: 4.0
+    reason: Mustard oil dressing
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Chopped green chilli
+  Kachumber Salad:
+  - ingredient: Cucumber
+    quantity_g: 25.0
+    reason: Diced cucumber
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Diced tomato
+  - ingredient: Onion
+    quantity_g: 20.0
+    reason: Diced onion
+  - ingredient: Lemon
+    quantity_g: 5.0
+    reason: Lemon juice dressing
+  Kadhai Paneer:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Capsicum, green
+    quantity_g: 25.0
+    reason: Bell pepper chunks
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion chunks
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Kadhai Veg:
+  - ingredient: Capsicum, green
+    quantity_g: 20.0
+    reason: Bell pepper chunks
+  - ingredient: Cauliflower
+    quantity_g: 20.0
+    reason: Cauliflower florets
+  - ingredient: Carrot
+    quantity_g: 15.0
+    reason: Carrot
+  - ingredient: Green peas
+    quantity_g: 15.0
+    reason: Green peas
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion chunks
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Kadhi Pakora:
+  - ingredient: Bengal gram, flour
+    quantity_g: 25.0
+    reason: Besan for kadhi and pakora
+  - ingredient: Curd / Dahi
+    quantity_g: 30.0
+    reason: Sour curd for kadhi
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Pakora onion
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Frying and cooking oil
+  Kesari Kheer:
+  - ingredient: Rice, raw/parboiled
+    quantity_g: 20.0
+    reason: Raw rice grains
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Whole milk base
+  - ingredient: Sugar, refined
+    quantity_g: 12.0
+    reason: Refined sweetening sugar
+  Khata Mitha Kaddu:
+  - ingredient: Pumpkin
+    quantity_g: 80.0
+    reason: Diced orange pumpkin
+  - ingredient: Jaggery
+    quantity_g: 5.0
+    reason: Jaggery for sweet-sour profile
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Khichdi:
+  - ingredient: Rice, raw/parboiled
+    quantity_g: 35.0
+    reason: Raw rice grain
+  - ingredient: Green gram, dal
+    quantity_g: 15.0
+    reason: Split moong dal
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tempering ghee
+  Lobiya Dal:
+  - ingredient: Cowpea
+    quantity_g: 30.0
+    reason: Raw cowpea / lobiya issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Malka Masoor:
+  - ingredient: Lentil, dal
+    quantity_g: 30.0
+    reason: Raw split red masoor dal issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Masala Aloo:
+  - ingredient: Potato
+    quantity_g: 65.0
+    reason: Diced potato
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Matar Paneer:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Green peas
+    quantity_g: 30.0
+    reason: Green peas
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Mathi:
+  - ingredient: Wheat flour, refined
+    quantity_g: 35.0
+    reason: Refined flour dough
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Deep frying oil uptake
+  Milk:
+  - ingredient: Milk, whole, cow
+    quantity_g: 150.0
+    reason: Standard single glass milk serving
+  Mint Raita:
+  - ingredient: Curd / Dahi
+    quantity_g: 90.0
+    reason: Curd base
+  - ingredient: Mint leaves
+    quantity_g: 10.0
+    reason: Crushed fresh mint
+  Mix Dal Amritsari:
+  - ingredient: Red gram, dal
+    quantity_g: 10.0
+    reason: Toor dal component
+  - ingredient: Bengal gram, dal
+    quantity_g: 10.0
+    reason: Chana dal component
+  - ingredient: Black gram, dal
+    quantity_g: 5.0
+    reason: Urad dal component
+  - ingredient: Green gram, dal
+    quantity_g: 5.0
+    reason: Moong dal component
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  Mix Pakora:
+  - ingredient: Bengal gram, flour
+    quantity_g: 25.0
+    reason: Besan batter
+  - ingredient: Potato
+    quantity_g: 20.0
+    reason: Sliced potato
+  - ingredient: Onion
+    quantity_g: 20.0
+    reason: Sliced onion
+  - ingredient: Cabbage
+    quantity_g: 15.0
+    reason: Shredded cabbage
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Deep frying oil uptake
+  Mix Raita:
+  - ingredient: Curd / Dahi
+    quantity_g: 75.0
+    reason: Curd base
+  - ingredient: Cucumber
+    quantity_g: 15.0
+    reason: Finely chopped cucumber
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Finely chopped tomato
+  Mix Veg:
+  - ingredient: Potato
+    quantity_g: 20.0
+    reason: Diced potato
+  - ingredient: Cauliflower
+    quantity_g: 20.0
+    reason: Cauliflower florets
+  - ingredient: Carrot
+    quantity_g: 15.0
+    reason: Diced carrot
+  - ingredient: Green peas
+    quantity_g: 15.0
+    reason: Green peas
+  - ingredient: French beans
+    quantity_g: 10.0
+    reason: Chopped green beans
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Moong Dal:
+  - ingredient: Green gram, dal
+    quantity_g: 30.0
+    reason: Raw yellow moong dal issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  - ingredient: Cumin seeds
+    quantity_g: 1.0
+    reason: Cumin tempering
+  Moong Sabut:
+  - ingredient: Green gram, whole
+    quantity_g: 30.0
+    reason: Raw whole green moong issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Muffin:
+  - ingredient: Commercial muffin
+    quantity_g: 40.0
+    reason: Single commercial bakery muffin
+  Namak Pare:
+  - ingredient: Wheat flour, refined
+    quantity_g: 35.0
+    reason: Refined flour dough
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Deep frying oil uptake
+  Namkeen:
+  - ingredient: Commercial namkeen
+    quantity_g: 30.0
+    reason: Commercial savoury fried mixture portion
+  Namkeen Seviyan:
+  - ingredient: Wheat, vermicelli
+    quantity_g: 40.0
+    reason: Roasted vermicelli
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Sautéed onion
+  - ingredient: Green peas
+    quantity_g: 15.0
+    reason: Green peas
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Nutry Masala:
+  - ingredient: Soyabean chunks
+    quantity_g: 30.0
+    reason: Dry soya chunks
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 2.0
+    reason: Fresh ginger
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Fresh garlic
+  Nutry Matar:
+  - ingredient: Soyabean chunks
+    quantity_g: 25.0
+    reason: Dry soya chunks
+  - ingredient: Green peas
+    quantity_g: 30.0
+    reason: Green peas
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Omelette:
+  - ingredient: Egg, whole
+    quantity_g: 50.0
+    reason: Single whole beaten egg
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Finely chopped onion
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Finely chopped tomato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Pan frying oil
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Green chilli
+  Onion:
+  - ingredient: Onion
+    quantity_g: 40.0
+    reason: Raw salad onion slices
+  Palak Corn:
+  - ingredient: Spinach
+    quantity_g: 50.0
+    reason: Pureed spinach leaves
+  - ingredient: Sweet corn
+    quantity_g: 30.0
+    reason: Sweet corn kernels
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Panchmail Dal:
+  - ingredient: Red gram, dal
+    quantity_g: 6.0
+    reason: Toor dal
+  - ingredient: Bengal gram, dal
+    quantity_g: 6.0
+    reason: Chana dal
+  - ingredient: Green gram, dal
+    quantity_g: 6.0
+    reason: Moong dal
+  - ingredient: Black gram, dal
+    quantity_g: 6.0
+    reason: Urad dal
+  - ingredient: Lentil, dal
+    quantity_g: 6.0
+    reason: Masoor dal
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  Paneer Butter Masala:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Makhani tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Gravy onion
+  - ingredient: Butter
+    quantity_g: 6.0
+    reason: Butter finish
+  - ingredient: Milk, whole, cow
+    quantity_g: 10.0
+    reason: Milk/cream base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Paneer Chettinad:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Chettinad tomato base
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion base
+  - ingredient: Coconut, dry
+    quantity_g: 6.0
+    reason: Chettinad coconut spice paste
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Paneer Do Pyaza:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Onion
+    quantity_g: 35.0
+    reason: Double stage sautéed onions
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Paneer Kolhapuri:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Spicy tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion gravy
+  - ingredient: Coconut, dry
+    quantity_g: 6.0
+    reason: Roasted desiccated coconut
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Paneer Lababdar:
+  - ingredient: Paneer
+    quantity_g: 40.0
+    reason: Fresh paneer cubes
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Lababdar tomato base
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Gravy onion
+  - ingredient: Milk, whole, cow
+    quantity_g: 10.0
+    reason: Milk enrichment
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Pav Bhaji:
+  - ingredient: Commercial bun
+    quantity_g: 40.0
+    reason: Single pav bun
+  - ingredient: Potato
+    quantity_g: 40.0
+    reason: Bhaji boiled potato base
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Bhaji tomato puree
+  - ingredient: Cauliflower
+    quantity_g: 15.0
+    reason: Bhaji mixed vegetables
+  - ingredient: Green peas
+    quantity_g: 15.0
+    reason: Bhaji green peas
+  - ingredient: Capsicum, green
+    quantity_g: 10.0
+    reason: Bhaji capsicum
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Bhaji sautéed onion
+  - ingredient: Butter
+    quantity_g: 8.0
+    reason: Butter for bhaji and pav
+  Pickle:
+  - ingredient: Commercial pickle
+    quantity_g: 15.0
+    reason: Single commercial pickle portion
+  Pink Sauce Pasta:
+  - ingredient: Commercial pasta
+    quantity_g: 60.0
+    reason: Commercial pasta serving
+  Plain Curd:
+  - ingredient: Curd / Dahi
+    quantity_g: 100.0
+    reason: Standard single katori curd serving
+  Plain Rice:
+  - ingredient: Rice, raw/parboiled
+    quantity_g: 50.0
+    reason: Standard single serving raw rice grain
+  Poha:
+  - ingredient: Rice, flakes
+    quantity_g: 40.0
+    reason: Flattened rice flakes
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Sautéed onion
+  - ingredient: Groundnut / Peanut
+    quantity_g: 5.0
+    reason: Roasted peanuts
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Tempering cooking oil
+  - ingredient: Green chilli
+    quantity_g: 2.0
+    reason: Spiced green chilli
+  Poori:
+  - ingredient: Wheat flour, atta
+    quantity_g: 30.0
+    reason: Single poori raw flour weight
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Deep frying oil uptake per poori
+  Poori Aloo Chana:
+  - ingredient: Wheat flour, atta
+    quantity_g: 30.0
+    reason: Poori raw flour
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Poori frying oil
+  - ingredient: Potato
+    quantity_g: 30.0
+    reason: Aloo sabzi potato
+  - ingredient: Bengal gram, whole
+    quantity_g: 15.0
+    reason: Black chana issuance
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Curry onion
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Curry tomato
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Curry cooking oil
+  Rajmah:
+  - ingredient: Kidney beans
+    quantity_g: 30.0
+    reason: Raw red kidney beans issuance
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Thick tomato gravy base
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Gravy onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 2.0
+    reason: Fresh ginger paste
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Fresh garlic paste
+  Rusk:
+  - ingredient: Commercial rusk
+    quantity_g: 25.0
+    reason: Two pieces commercial bakery rusk
+  Sabudana Kheer:
+  - ingredient: Tapioca pearls
+    quantity_g: 25.0
+    reason: Sabudana pearls
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Whole milk base
+  - ingredient: Sugar, refined
+    quantity_g: 12.0
+    reason: Refined sweetening sugar
+  Sabut Masoor:
+  - ingredient: Lentil, whole
+    quantity_g: 30.0
+    reason: Raw whole brown lentil issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Samosa:
+  - ingredient: Potato
+    quantity_g: 30.0
+    reason: Boiled spiced potato filling
+  - ingredient: Wheat flour, refined
+    quantity_g: 25.0
+    reason: Pastry crust
+  - ingredient: Green peas
+    quantity_g: 10.0
+    reason: Green peas filling
+  - ingredient: Vegetable oil
+    quantity_g: 10.0
+    reason: Deep frying oil uptake
+  Sandwich:
+  - ingredient: Commercial bread
+    quantity_g: 50.0
+    reason: Two slices commercial white bread
+  - ingredient: Cucumber
+    quantity_g: 25.0
+    reason: Cucumber slices
+  - ingredient: Tomato
+    quantity_g: 25.0
+    reason: Tomato slices
+  - ingredient: Butter
+    quantity_g: 5.0
+    reason: Table butter spread
+  Sirca Onion:
+  - ingredient: Onion
+    quantity_g: 35.0
+    reason: Pickled small onion
+  - ingredient: Beetroot
+    quantity_g: 5.0
+    reason: Natural beetroot color
+  Stuffed Paratha:
+  - ingredient: Wheat flour, atta
+    quantity_g: 40.0
+    reason: Paratha dough flour
+  - ingredient: Potato
+    quantity_g: 20.0
+    reason: Potato stuffing
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Shallow frying fat
+  Sweet Dalia:
+  - ingredient: Wheat, bulgur
+    quantity_g: 35.0
+    reason: Broken wheat grains
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Whole milk base
+  - ingredient: Sugar, refined
+    quantity_g: 8.0
+    reason: Refined sweetening sugar
+  Tea:
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Milk component in tea cup
+  - ingredient: Sugar, refined
+    quantity_g: 8.0
+    reason: Refined sweetening sugar
+  - ingredient: Tea leaves
+    quantity_g: 2.0
+    reason: Brewed tea leaves
+  Tea Cake:
+  - ingredient: Commercial tea cake
+    quantity_g: 35.0
+    reason: Single slice commercial bakery tea cake
+  Tomato:
+  - ingredient: Tomato
+    quantity_g: 40.0
+    reason: Raw salad tomato slices
+  Tomato Ketchup:
+  - ingredient: Commercial tomato ketchup
+    quantity_g: 15.0
+    reason: Single commercial ketchup sachet/portion
+  Veg Biryani:
+  - ingredient: Rice, raw/parboiled
+    quantity_g: 50.0
+    reason: Raw basmati/parboiled rice
+  - ingredient: Potato
+    quantity_g: 15.0
+    reason: Biryani vegetables
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Fried onion base
+  - ingredient: Green peas
+    quantity_g: 10.0
+    reason: Green peas
+  - ingredient: Carrot
+    quantity_g: 10.0
+    reason: Diced carrot
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Aromatic tempering ghee
+  Veg Fried Rice:
+  - ingredient: Rice, raw/parboiled
+    quantity_g: 45.0
+    reason: Raw rice grain
+  - ingredient: Cabbage
+    quantity_g: 15.0
+    reason: Finely shredded cabbage
+  - ingredient: Carrot
+    quantity_g: 10.0
+    reason: Diced carrot
+  - ingredient: French beans
+    quantity_g: 10.0
+    reason: Chopped green beans
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Wok frying oil
+  Veg Jaipuri:
+  - ingredient: Potato
+    quantity_g: 20.0
+    reason: Diced potato
+  - ingredient: Cauliflower
+    quantity_g: 20.0
+    reason: Cauliflower florets
+  - ingredient: Green peas
+    quantity_g: 15.0
+    reason: Green peas
+  - ingredient: Paneer
+    quantity_g: 15.0
+    reason: Diced paneer
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Veg Jalfrazi:
+  - ingredient: Capsicum, green
+    quantity_g: 25.0
+    reason: Julienned bell pepper
+  - ingredient: Carrot
+    quantity_g: 20.0
+    reason: Julienned carrot
+  - ingredient: French beans
+    quantity_g: 20.0
+    reason: French beans
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion slices
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Veg Kofta Curry:
+  - ingredient: Bottle gourd
+    quantity_g: 35.0
+    reason: Grated bottle gourd kofta
+  - ingredient: Potato
+    quantity_g: 15.0
+    reason: Mashed potato binder
+  - ingredient: Bengal gram, flour
+    quantity_g: 15.0
+    reason: Besan binder
+  - ingredient: Tomato
+    quantity_g: 20.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion gravy
+  - ingredient: Vegetable oil
+    quantity_g: 10.0
+    reason: Deep frying kofta and curry oil
+  Veg Korma:
+  - ingredient: Potato
+    quantity_g: 20.0
+    reason: Diced potato
+  - ingredient: Carrot
+    quantity_g: 20.0
+    reason: Diced carrot
+  - ingredient: Green peas
+    quantity_g: 15.0
+    reason: Green peas
+  - ingredient: French beans
+    quantity_g: 15.0
+    reason: Green beans
+  - ingredient: Curd / Dahi
+    quantity_g: 15.0
+    reason: Korma curd base
+  - ingredient: Coconut, dry
+    quantity_g: 5.0
+    reason: Coconut paste
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  Veg Manchurian:
+  - ingredient: Cabbage
+    quantity_g: 35.0
+    reason: Finely shredded cabbage ball
+  - ingredient: Carrot
+    quantity_g: 20.0
+    reason: Grated carrot
+  - ingredient: Wheat flour, refined
+    quantity_g: 15.0
+    reason: Binding flour
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Spring/regular onion
+  - ingredient: Vegetable oil
+    quantity_g: 8.0
+    reason: Frying oil uptake
+  Vermicelli Payasam:
+  - ingredient: Wheat, vermicelli
+    quantity_g: 20.0
+    reason: Sevai
+  - ingredient: Milk, whole, cow
+    quantity_g: 80.0
+    reason: Whole milk base
+  - ingredient: Sugar, refined
+    quantity_g: 12.0
+    reason: Refined sweetening sugar
+  - ingredient: Ghee
+    quantity_g: 3.0
+    reason: Roasting ghee
+  Vermicelli Pudding with Condensed Milk:
+  - ingredient: Wheat, vermicelli
+    quantity_g: 20.0
+    reason: Sevai
+  - ingredient: Milk, whole, cow
+    quantity_g: 40.0
+    reason: Whole milk
+  - ingredient: Condensed milk
+    quantity_g: 25.0
+    reason: Sweetened condensed milk
+  - ingredient: Sugar, refined
+    quantity_g: 5.0
+    reason: Sugar
+  White Chana:
+  - ingredient: Kabuli chana
+    quantity_g: 30.0
+    reason: Raw kabuli chana issuance
+  - ingredient: Tomato
+    quantity_g: 15.0
+    reason: Tomato gravy
+  - ingredient: Onion
+    quantity_g: 15.0
+    reason: Onion base
+  - ingredient: Vegetable oil
+    quantity_g: 5.0
+    reason: Cooking oil
+  - ingredient: Ginger
+    quantity_g: 2.0
+    reason: Fresh ginger
+  Yellow Dal Tadka:
+  - ingredient: Red gram, dal
+    quantity_g: 30.0
+    reason: Raw toor dal issuance
+  - ingredient: Tomato
+    quantity_g: 10.0
+    reason: Tomato base
+  - ingredient: Onion
+    quantity_g: 10.0
+    reason: Onion base
+  - ingredient: Ghee
+    quantity_g: 5.0
+    reason: Tadka ghee
+  - ingredient: Garlic
+    quantity_g: 2.0
+    reason: Garlic cloves
+  - ingredient: Cumin seeds
+    quantity_g: 1.0
+    reason: Cumin tempering

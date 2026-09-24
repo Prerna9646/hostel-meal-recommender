@@ -1,0 +1,154 @@
+# config/dish_synonyms.yaml
+# Normalisation, canonicalisation, and decomposition rules for mess menu dishes.
+
+version: "1.0.0"
+description: "Rules for canonicalising 153 hostel mess dishes, decomposing compound dishes, and identifying style stop-words."
+
+# 1. Spelling and Regional Transliteration Normalisations
+spelling_normalisations:
+  Khichadi: "Khichdi"
+  Chass: "Chaas"
+  Chicken Kohlapuri: "Chicken Kolhapuri"
+  Tam Aloo: "Dum Aloo"
+
+# 2. Canonical Dish Name Mappings (Near-duplicates and variants -> single canonical name)
+canonical_dish_mappings:
+  # Rice variants
+  "Rice": "Plain Rice"
+  "Steamed Rice": "Plain Rice"
+  "Plain Rice": "Plain Rice"
+  "Jeera Rice": "Jeera Rice"
+  "Veg Fried Rice": "Veg Fried Rice"
+  "Veg Biryani": "Veg Biryani"
+
+  # Curd and Raita variants
+  "Curd": "Plain Curd"
+  "Plain Curd": "Plain Curd"
+  "Mix Raita": "Mix Raita"
+  "Raita Mix": "Mix Raita"
+  "Boondi Raita": "Boondi Raita"
+  "Jeera Raita": "Jeera Raita"
+  "Mint Raita": "Mint Raita"
+
+  # Dal variants
+  "Mix Dal": "Mix Dal Amritsari"
+  "Mix Dal Amritsari": "Mix Dal Amritsari"
+  "Panchmail": "Panchmail Dal"
+  "Panchmail Dal": "Panchmail Dal"
+  "Black Dal Fry": "Black Dal Tadka"
+  "Black Dal Tadka": "Black Dal Tadka"
+  "Green Moong Dal": "Moong Dal"
+  "Moong Sabut": "Moong Sabut"
+  "Lobiya": "Lobiya Dal"
+  "Lobiya Dal": "Lobiya Dal"
+  "Malka Masoor": "Malka Masoor"
+  "Sabut Masoor": "Sabut Masoor"
+  "Chana Dal Tadka": "Chana Dal Tadka"
+  "Chana Toor Dal": "Chana Toor Dal"
+  "Yellow Dal Tadka": "Yellow Dal Tadka"
+  "Dal Makhani": "Dal Makhani"
+  "Dal Maratha": "Dal Maratha"
+  "Dal Palak": "Dal Palak"
+  "Dhaba Dal": "Dhaba Dal"
+
+  # Curry and Sabzi variants
+  "Aloo Onion Kadhi": "Aloo Onion Kadhi"
+  "Kadhi Aloo Onion": "Aloo Onion Kadhi"
+  "Kadhi Pakora": "Kadhi Pakora"
+  "Dum Aloo": "Dum Aloo"
+  "Dum Aloo Punjabi": "Dum Aloo"
+  "Aloo Jeera": "Jeera Aloo"
+  "Jeera Aloo": "Jeera Aloo"
+  "Aloo Capsicum Masala": "Aloo Capsicum"
+  "Aloo Capsicum": "Aloo Capsicum"
+  "Nutry Masala": "Nutry Masala"
+  "Nutry Matar": "Nutry Matar"
+
+  # Accompaniments and Condiments
+  "Ketchup": "Tomato Ketchup"
+  "Tomato Ketchup": "Tomato Ketchup"
+
+# 3. Compound Dish Decompositions (Single menu string containing multiple distinct courses)
+compound_dish_decompositions:
+  "White Chana Khata Mitha Kaddu":
+    primary_dish: "White Chana"
+    secondary_dish: "Khata Mitha Kaddu"
+    reason: "Hostel kitchen entered Dal (White Chana) and Sabzi (Khata Mitha Kaddu) into a single row"
+  "Sabut Masoor Dal Aloo Capsicum":
+    primary_dish: "Sabut Masoor"
+    secondary_dish: "Aloo Capsicum"
+    reason: "Hostel kitchen entered Dal (Sabut Masoor) and Sabzi (Aloo Capsicum) into a single row"
+  "Black Chana Mix Veg":
+    primary_dish: "Black Chana"
+    secondary_dish: "Mix Veg"
+    reason: "Hostel kitchen entered Dal (Black Chana) and Sabzi (Mix Veg) into a single row"
+  "White Chana Nutry Keema":
+    primary_dish: "White Chana"
+    secondary_dish: "Nutry Masala"
+    reason: "Hostel kitchen entered Dal (White Chana) and Soya curry into a single row"
+  "Sabut Masoor Dal Palak Corn":
+    primary_dish: "Sabut Masoor"
+    secondary_dish: "Palak Corn"
+    reason: "Hostel kitchen entered Dal (Sabut Masoor) and Sabzi (Palak Corn) into a single row"
+  "Black Chana Aloo Cabbage Matar":
+    primary_dish: "Black Chana"
+    secondary_dish: "Aloo Cabbage Matar"
+    reason: "Hostel kitchen entered Dal (Black Chana) and Sabzi (Aloo Cabbage Matar) into a single row"
+  "Rajmah Ghiya Masala":
+    primary_dish: "Rajmah"
+    secondary_dish: "Ghiya Masala"
+    reason: "Hostel kitchen entered Dal (Rajmah) and Sabzi (Ghiya Masala) into a single row"
+
+# 4. Preparation Style Stop-Words
+preparation_style_stops:
+  - word: "Makhani"
+    meaning: "Prepared with butter and cream base"
+    affects: "Adds butter/cream to core ingredient"
+  - word: "Kolhapuri"
+    meaning: "Spicy regional preparation with coconut-chilli gravy"
+    affects: "Adds roasted coconut and red chilli paste"
+  - word: "Lababdar"
+    meaning: "Mughlai style rich tomato-cashew/cream gravy"
+    affects: "Adds tomato, cream, and melon/cashew paste"
+  - word: "Do Pyaza"
+    meaning: "Prepared with two stages of sautéed onions"
+    affects: "Increases onion proportion"
+  - word: "Jaipuri"
+    meaning: "Mixed vegetable curry with crushed papad garnish"
+    affects: "Adds mixed vegetables and papad base"
+  - word: "Jalfrazi"
+    meaning: "Stir-fried vegetables in spiced tomato sauce"
+    affects: "Adds bell peppers and julienned vegetables"
+  - word: "Butter Masala"
+    meaning: "Rich tomato gravy enriched with butter"
+    affects: "Adds butter and tomato gravy"
+  - word: "Adraki"
+    meaning: "Ginger-accented preparation"
+    affects: "Increases fresh ginger proportion"
+  - word: "Korma"
+    meaning: "Curry prepared with yogurt/coconut paste"
+    affects: "Adds curd/coconut base"
+  - word: "Tadka"
+    meaning: "Tempered with ghee/oil, cumin, and garlic"
+    affects: "Standard tempering base"
+  - word: "Fry"
+    meaning: "Sautéed or shallow fried in oil"
+    affects: "Adds standard cooking oil"
+
+# 5. Packaged / Bakery Commercial Items (Lacking IFCT raw composition)
+commercial_packaged_items:
+  - "Biscuit"
+  - "Chips"
+  - "Muffin"
+  - "Brownie"
+  - "Cream Roll"
+  - "Danish Bun"
+  - "Chocolate"
+  - "Chocolate Pie"
+  - "Pink Sauce Pasta"
+  - "Fryums"
+  - "Namkeen"
+  - "Rusk"
+  - "Tea Cake"
+  - "Cornflakes"
+  - "Fat Spread"

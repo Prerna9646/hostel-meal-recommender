@@ -1,0 +1,731 @@
+# config/ingredient_mappings.yaml
+# Explicit bridge mapping canonical ingredients to IFCT 2017 codes or external references.
+
+mappings:
+  # Cereals & Grains
+  - ingredient: "Wheat flour, atta"
+    ifct_code: "A019"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A019"
+    notes: "Direct match to whole wheat atta"
+
+  - ingredient: "Wheat flour, refined"
+    ifct_code: "A018"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A018"
+    notes: "Direct match to maida (refined wheat flour)"
+
+  - ingredient: "Rice, raw/parboiled"
+    ifct_code: "A014"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A014"
+    notes: "Direct match to parboiled milled rice"
+
+  - ingredient: "Rice, flakes"
+    ifct_code: "A011"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A011"
+    notes: "Direct match to poha (rice flakes)"
+
+  - ingredient: "Rice, puffed"
+    ifct_code: "A012"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A012"
+    notes: "Direct match to murmura (puffed rice)"
+
+  - ingredient: "Wheat, semolina"
+    ifct_code: "A022"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A022"
+    notes: "Direct match to suji / rava"
+
+  - ingredient: "Wheat, vermicelli"
+    ifct_code: "A023"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A023"
+    notes: "Direct match to sevai"
+
+  - ingredient: "Wheat, bulgur"
+    ifct_code: "A021"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A021"
+    notes: "Direct match to dalia (broken wheat bulgur)"
+
+  # Pulses & Legumes
+  - ingredient: "Bengal gram, dal"
+    ifct_code: "B001"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B001"
+    notes: "Direct match to chana dal"
+
+  - ingredient: "Bengal gram, whole"
+    ifct_code: "B002"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B002"
+    notes: "Direct match to kala chana"
+
+  - ingredient: "Bengal gram, flour"
+    ifct_code: "B001"
+    mapping_status: "VERIFIED"
+    mapping_type: "INGREDIENT_FORM"
+    confidence: 0.95
+    source_type: "IFCT_DERIVED"
+    source_reference: "IFCT2017:B001"
+    notes: "Besan is mechanically milled dehulled Bengal gram dal"
+
+  - ingredient: "Kabuli chana"
+    ifct_code: "B002"
+    mapping_status: "APPROXIMATE"
+    mapping_type: "VARIETY"
+    confidence: 0.85
+    source_type: "PROJECT_ASSUMPTION"
+    source_reference: "IFCT2017:B002"
+    notes: "White chana mapped to proximate species Cicer arietinum L. (whole)"
+
+  - ingredient: "Green gram, dal"
+    ifct_code: "B010"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B010"
+    notes: "Direct match to moong dal (yellow/split)"
+
+  - ingredient: "Green gram, whole"
+    ifct_code: "B011"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B011"
+    notes: "Direct match to moong sabut"
+
+  - ingredient: "Lentil, dal"
+    ifct_code: "B013"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B013"
+    notes: "Direct match to malka masoor (split lentil)"
+
+  - ingredient: "Lentil, whole"
+    ifct_code: "B014"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B014"
+    notes: "Direct match to sabut masoor (brown lentil)"
+
+  - ingredient: "Red gram, dal"
+    ifct_code: "B022"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B022"
+    notes: "Direct match to toor dal / arhar dal"
+
+  - ingredient: "Black gram, dal"
+    ifct_code: "B003"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B003"
+    notes: "Direct match to dhuli urad dal"
+
+  - ingredient: "Black gram, whole"
+    ifct_code: "B004"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B004"
+    notes: "Direct match to sabut urad (black dal)"
+
+  - ingredient: "Cowpea"
+    ifct_code: "B005"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B005"
+    notes: "Direct match to lobiya (brown cowpea)"
+
+  - ingredient: "Kidney beans"
+    ifct_code: "B020"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:B020"
+    notes: "Direct match to rajmah, red"
+
+  - ingredient: "Soyabean chunks"
+    ifct_code: "B024"
+    mapping_status: "APPROXIMATE"
+    mapping_type: "INGREDIENT_FORM"
+    confidence: 0.80
+    source_type: "PROJECT_ASSUMPTION"
+    source_reference: "IFCT2017:B024"
+    notes: "Commercial soya chunks mapped to raw whole soyabean as baseline"
+
+  - ingredient: "Green peas"
+    ifct_code: "D061"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D061"
+    notes: "Direct match to fresh green peas"
+
+  # Vegetables & Tubers
+  - ingredient: "Potato"
+    ifct_code: "F006"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:F006"
+    notes: "Priority cultivar: Potato, brown skin, big"
+
+  - ingredient: "Onion"
+    ifct_code: "G017"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G017"
+    notes: "Priority cultivar: Onion, big commercial"
+
+  - ingredient: "Tomato"
+    ifct_code: "D075"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D075"
+    notes: "Priority cultivar: Tomato, ripe, hybrid"
+
+  - ingredient: "Ginger"
+    ifct_code: "G014"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G014"
+    notes: "Direct match to fresh ginger"
+
+  - ingredient: "Garlic"
+    ifct_code: "G011"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G011"
+    notes: "Priority cultivar: Garlic, big cloves"
+
+  - ingredient: "Green chilli"
+    ifct_code: "G008"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G008"
+    notes: "Green chillies - all varieties composite"
+
+  - ingredient: "Cauliflower"
+    ifct_code: "D036"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D036"
+    notes: "Direct match to fresh cauliflower"
+
+  - ingredient: "Cabbage"
+    ifct_code: "C015"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:C015"
+    notes: "Direct match to fresh green cabbage"
+
+  - ingredient: "Capsicum, green"
+    ifct_code: "D033"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D033"
+    notes: "Direct match to green capsicum (bell pepper)"
+
+  - ingredient: "Spinach"
+    ifct_code: "C033"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:C033"
+    notes: "Direct match to fresh palak"
+
+  - ingredient: "Bottle gourd"
+    ifct_code: "D007"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D007"
+    notes: "Direct match to lauki / ghiya"
+
+  - ingredient: "Pumpkin"
+    ifct_code: "D066"
+    mapping_status: "VERIFIED"
+    mapping_type: "SYNONYM"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D066"
+    notes: "Direct match to kaddu (orange round pumpkin)"
+
+  - ingredient: "Cucumber"
+    ifct_code: "D043"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D043"
+    notes: "Direct match to kheera (green elongate cucumber)"
+
+  - ingredient: "Beetroot"
+    ifct_code: "F001"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:F001"
+    notes: "Direct match to chukandar (beetroot)"
+
+  - ingredient: "Sweet corn"
+    ifct_code: "A008"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:A008"
+    notes: "Direct match to maize, tender, sweet"
+
+  - ingredient: "Carrot"
+    ifct_code: "F002"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:F002"
+    notes: "Direct match to orange carrot"
+
+  - ingredient: "French beans"
+    ifct_code: "D049"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:D049"
+    notes: "Direct match to green french beans"
+
+  - ingredient: "Lemon"
+    ifct_code: "E033"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:E033"
+    notes: "Direct match to fresh lemon juice"
+
+  - ingredient: "Coriander leaves"
+    ifct_code: "G009"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G009"
+    notes: "Direct match to fresh coriander leaves"
+
+  - ingredient: "Mint leaves"
+    ifct_code: "G016"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G016"
+    notes: "Direct match to fresh mint leaves"
+
+  # Fruits
+  - ingredient: "Banana"
+    ifct_code: "E009"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:E009"
+    notes: "Priority cultivar: Banana, ripe, montham"
+
+  # Dairy, Poultry, Egg & Meat
+  - ingredient: "Milk, whole, cow"
+    ifct_code: "L002"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:L002"
+    notes: "Direct match to cow whole milk"
+
+  - ingredient: "Paneer"
+    ifct_code: "L003"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:L003"
+    notes: "Direct match to fresh paneer"
+
+  - ingredient: "Curd / Dahi"
+    ifct_code: "L002"
+    mapping_status: "APPROXIMATE"
+    mapping_type: "FOOD_FORM"
+    confidence: 0.90
+    source_type: "PROJECT_ASSUMPTION"
+    source_reference: "IFCT2017:L002"
+    notes: "Fermented whole cow milk equivalent; assumes identical raw milk solids"
+
+  - ingredient: "Khoa"
+    ifct_code: "L004"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:L004"
+    notes: "Direct match to khoa / mawa"
+
+  - ingredient: "Condensed milk"
+    ifct_code: ""
+    mapping_status: "VERIFIED"
+    mapping_type: "EXTERNAL"
+    confidence: 0.95
+    source_type: "EXTERNAL_REFERENCE"
+    source_reference: "USDA_FDC_173449"
+    notes: "USDA FoodData Central 173449 (Sweetened condensed canned milk)"
+
+  - ingredient: "Chicken meat, breast"
+    ifct_code: "N003"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:N003"
+    notes: "Direct match to chicken breast, skinless"
+
+  - ingredient: "Egg, whole"
+    ifct_code: "M004"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:M004"
+    notes: "Direct match to whole boiled poultry egg"
+
+  # Fats, Oils & Spices
+  - ingredient: "Vegetable oil"
+    ifct_code: "T006"
+    mapping_status: "VERIFIED"
+    mapping_type: "VARIETY"
+    confidence: 0.95
+    source_type: "IFCT_DERIVED"
+    source_reference: "IFCT2017:T006"
+    notes: "Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)"
+
+  - ingredient: "Ghee"
+    ifct_code: "T013"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DERIVED"
+    source_reference: "IFCT2017:T013"
+    notes: "Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)"
+
+  - ingredient: "Butter"
+    ifct_code: ""
+    mapping_status: "VERIFIED"
+    mapping_type: "EXTERNAL"
+    confidence: 0.95
+    source_type: "EXTERNAL_REFERENCE"
+    source_reference: "USDA_FDC_173410"
+    notes: "USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+
+  - ingredient: "Cumin seeds"
+    ifct_code: "G025"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:G025"
+    notes: "Direct match to cumin seeds (jeera)"
+
+  - ingredient: "Groundnut / Peanut"
+    ifct_code: "H012"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:H012"
+    notes: "Direct match to raw ground nut"
+
+  - ingredient: "Coconut, dry"
+    ifct_code: "H006"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:H006"
+    notes: "Direct match to coconut, kernel, dry"
+
+  # Sweeteners & Starches
+  - ingredient: "Sugar, refined"
+    ifct_code: ""
+    mapping_status: "VERIFIED"
+    mapping_type: "EXTERNAL"
+    confidence: 0.95
+    source_type: "EXTERNAL_REFERENCE"
+    source_reference: "USDA_FDC_169655"
+    notes: "USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+
+  - ingredient: "Jaggery"
+    ifct_code: "I001"
+    mapping_status: "VERIFIED"
+    mapping_type: "DIRECT"
+    confidence: 1.0
+    source_type: "IFCT_DIRECT"
+    source_reference: "IFCT2017:I001"
+    notes: "Direct match to jaggery, cane"
+
+  - ingredient: "Tapioca pearls"
+    ifct_code: "F015"
+    mapping_status: "APPROXIMATE"
+    mapping_type: "FOOD_FORM"
+    confidence: 0.85
+    source_type: "PROJECT_ASSUMPTION"
+    source_reference: "IFCT2017:F015"
+    notes: "Sabudana processed starch pearls mapped to proximate raw tapioca root"
+
+  - ingredient: "Tea leaves"
+    ifct_code: ""
+    mapping_status: "APPROXIMATE"
+    mapping_type: "FOOD_FORM"
+    confidence: 0.90
+    source_type: "PROJECT_ASSUMPTION"
+    source_reference: "PROJECT_CULINARY_ASSUMPTION"
+    notes: "Infusion basis: leaves impart flavor; calories supplied by milk and sugar"
+
+  - ingredient: "Coffee powder"
+    ifct_code: ""
+    mapping_status: "APPROXIMATE"
+    mapping_type: "FOOD_FORM"
+    confidence: 0.90
+    source_type: "PROJECT_ASSUMPTION"
+    source_reference: "PROJECT_CULINARY_ASSUMPTION"
+    notes: "Infusion basis: powder imparts flavor; calories supplied by milk and sugar"
+
+  # Commercial Bakery & Packaged Foods (Per-item EXTERNAL or UNAVAILABLE)
+  - ingredient: "Commercial bread"
+    ifct_code: ""
+    mapping_status: "VERIFIED"
+    mapping_type: "EXTERNAL"
+    confidence: 0.95
+    source_type: "EXTERNAL_REFERENCE"
+    source_reference: "USDA_FDC_172685"
+    notes: "USDA FoodData Central 172685 (Bread, white, commercially prepared)"
+
+  - ingredient: "Commercial biscuit"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial ultra-processed biscuit lacking generic IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial chips"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial ultra-processed potato chips lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial bun"
+    ifct_code: ""
+    mapping_status: "VERIFIED"
+    mapping_type: "EXTERNAL"
+    confidence: 0.90
+    source_type: "EXTERNAL_REFERENCE"
+    source_reference: "USDA_FDC_172685"
+    notes: "Mapped to commercial white bread/bun baseline (USDA FDC 172685)"
+
+  - ingredient: "Commercial muffin"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial ultra-processed bakery muffin lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial brownie"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial ultra-processed brownie lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial cream roll"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial ultra-processed cream roll lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial chocolate"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial packaged chocolate candy lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial tea cake"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial bakery cake lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial rusk"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial twice-baked toast lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial namkeen"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial fried savoury mixture lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial fryums"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial deep-fried extruded snack lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial pasta"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial pink sauce pasta lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial cornflakes"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial breakfast cereal flakes lacking IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial tomato ketchup"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial sweetened ketchup lacking generic IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial jam"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial mixed fruit jam lacking generic IFCT profile; excluded from scoring"
+
+  - ingredient: "Commercial pickle"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial mango/mixed pickle with unmeasured salt brine; excluded from scoring"
+
+  - ingredient: "Commercial fat spread"
+    ifct_code: ""
+    mapping_status: "UNMAPPED"
+    mapping_type: "UNAVAILABLE"
+    confidence: 0.0
+    source_type: "UNAVAILABLE"
+    source_reference: "UNAVAILABLE"
+    notes: "Commercial margarine/fat spread lacking IFCT profile; excluded from scoring"

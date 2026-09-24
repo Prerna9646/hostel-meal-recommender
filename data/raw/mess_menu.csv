@@ -1,0 +1,625 @@
+date,meal,dish
+2026-10-01,Breakfast,Poori Aloo Chana
+2026-10-01,Breakfast,Tea
+2026-10-01,Breakfast,Pickle
+2026-10-01,Lunch,Kadhi Aloo Onion
+2026-10-01,Lunch,Aloo Matar
+2026-10-01,Lunch,Plain Rice
+2026-10-01,Lunch,Fryums
+2026-10-01,Lunch,Chapati
+2026-10-01,E-Tea,Namkeen
+2026-10-01,E-Tea,Tea
+2026-10-01,Girls Hostel,Chocolate Pie
+2026-10-01,Girls Hostel,Coffee
+2026-10-01,Dinner,White Chana Khata Mitha Kaddu
+2026-10-01,Dinner,Steamed Rice
+2026-10-01,Dinner,Green Salad
+2026-10-01,Dinner,Chapati
+2026-10-01,Dessert,Custard
+2026-10-02,Breakfast,Sweet Dalia
+2026-10-02,Breakfast,Omelette
+2026-10-02,Breakfast,Banana
+2026-10-02,Breakfast,Fat Spread
+2026-10-02,Breakfast,Jam
+2026-10-02,Breakfast,Bread
+2026-10-02,Breakfast,Tea
+2026-10-02,Lunch,Sabut Masoor Dal Aloo Capsicum
+2026-10-02,Lunch,Steamed Rice
+2026-10-02,Lunch,Mix Raita
+2026-10-02,Lunch,Green Salad
+2026-10-02,Lunch,Chapati
+2026-10-02,E-Tea,Bread Pakora
+2026-10-02,E-Tea,Tea
+2026-10-02,Girls Hostel,Pink Sauce Pasta
+2026-10-02,Girls Hostel,Coffee
+2026-10-02,Dinner,Yellow Dal Tadka
+2026-10-02,Dinner,Gobhi Matar
+2026-10-02,Dinner,Steamed Rice
+2026-10-02,Dinner,Green Salad
+2026-10-02,Dinner,Chapati
+2026-10-03,Breakfast,Stuffed Paratha
+2026-10-03,Breakfast,Curd
+2026-10-03,Breakfast,Pickle
+2026-10-03,Breakfast,Fat Spread
+2026-10-03,Breakfast,Tea
+2026-10-03,Lunch,Black Dal Tadka
+2026-10-03,Lunch,Veg Jaipuri
+2026-10-03,Lunch,Boondi Raita
+2026-10-03,Lunch,Steamed Rice
+2026-10-03,Lunch,Green Salad
+2026-10-03,Lunch,Chapati
+2026-10-03,E-Tea,Pink Sauce Pasta
+2026-10-03,E-Tea,Coffee
+2026-10-03,Girls Hostel,Namkeen
+2026-10-03,Girls Hostel,Tea
+2026-10-03,Dinner,Veg Manchurian
+2026-10-03,Dinner,Veg Fried Rice
+2026-10-03,Dinner,Black Chana
+2026-10-03,Dinner,Green Salad
+2026-10-03,Dinner,Chapati
+2026-10-03,Dessert,Chocolate
+2026-10-04,Breakfast,Chole Bhature
+2026-10-04,Breakfast,Green Chilli
+2026-10-04,Breakfast,Pickle
+2026-10-04,Breakfast,Tea
+2026-10-04,Breakfast,Onion
+2026-10-04,Lunch,Veg Biryani
+2026-10-04,Lunch,Tam Aloo
+2026-10-04,Lunch,Raita Mix
+2026-10-04,Lunch,Beetroot Cucumber Salad
+2026-10-04,Lunch,Chapati
+2026-10-04,E-Tea,Chocolate Pie
+2026-10-04,E-Tea,Coffee
+2026-10-04,Girls Hostel,Bread Pakora
+2026-10-04,Girls Hostel,Tea
+2026-10-04,Dinner,Paneer Kolhapuri
+2026-10-04,Dinner,Egg Curry
+2026-10-04,Dinner,Moong Sabut
+2026-10-04,Dinner,Steamed Rice
+2026-10-04,Dinner,Green Salad
+2026-10-04,Dinner,Chapati
+2026-10-05,Breakfast,Pav Bhaji
+2026-10-05,Breakfast,Tea
+2026-10-05,Breakfast,Pickle
+2026-10-05,Breakfast,Milk
+2026-10-05,Lunch,Rajmah Ghiya Masala
+2026-10-05,Lunch,Jeera Rice
+2026-10-05,Lunch,Boondi Raita
+2026-10-05,Lunch,Kachumber Salad
+2026-10-05,Lunch,Chapati
+2026-10-05,E-Tea,Crispy Dal Kachori
+2026-10-05,E-Tea,Tea
+2026-10-05,Girls Hostel,Tea Cake
+2026-10-05,Girls Hostel,Tea
+2026-10-05,Dinner,Dal Palak
+2026-10-05,Dinner,Nutry Matar
+2026-10-05,Dinner,Steamed Rice
+2026-10-05,Dinner,Green Salad
+2026-10-05,Dinner,Chapati
+2026-10-06,Breakfast,Cornflakes
+2026-10-06,Breakfast,Masala Aloo
+2026-10-06,Breakfast,Sandwich
+2026-10-06,Breakfast,Tomato Ketchup
+2026-10-06,Breakfast,Milk
+2026-10-06,Breakfast,Tea
+2026-10-06,Lunch,Mix Dal Amritsari
+2026-10-06,Lunch,Aloo
+2026-10-06,Lunch,Mint Raita
+2026-10-06,Lunch,Steamed Rice
+2026-10-06,Lunch,Green Salad
+2026-10-06,Lunch,Chapati
+2026-10-06,E-Tea,Chips
+2026-10-06,E-Tea,Tea
+2026-10-06,Girls Hostel,Chips
+2026-10-06,Girls Hostel,Tea
+2026-10-06,Dinner,Chana Dal Tadka
+2026-10-06,Dinner,Gobhi Adraki
+2026-10-06,Dinner,Steamed Rice
+2026-10-06,Dinner,Green Salad
+2026-10-06,Dinner,Chapati
+2026-10-06,Dessert,Gulab Jamun
+2026-10-07,Breakfast,Poha
+2026-10-07,Breakfast,Besan Chilla
+2026-10-07,Breakfast,Chutney
+2026-10-07,Breakfast,Tea
+2026-10-07,Breakfast,Milk
+2026-10-07,Lunch,Dhaba Dal
+2026-10-07,Lunch,Kadhai Veg
+2026-10-07,Lunch,Mix Raita
+2026-10-07,Lunch,Steamed Rice
+2026-10-07,Lunch,Green Salad
+2026-10-07,Lunch,Chapati
+2026-10-07,E-Tea,Tea Cake
+2026-10-07,E-Tea,Tea
+2026-10-07,Girls Hostel,Crispy Dal Kachori
+2026-10-07,Girls Hostel,Tea
+2026-10-07,Dinner,Butter Chicken
+2026-10-07,Dinner,Paneer Do Pyaza
+2026-10-07,Dinner,Lobiya Dal
+2026-10-07,Dinner,Steamed Rice
+2026-10-07,Dinner,Sirca Onion
+2026-10-07,Dinner,Chapati
+2026-10-08,Breakfast,Poori Aloo Chana
+2026-10-08,Breakfast,Tea
+2026-10-08,Breakfast,Pickle
+2026-10-08,Lunch,Kadhi Pakora
+2026-10-08,Lunch,Aloo Matar
+2026-10-08,Lunch,Plain Rice
+2026-10-08,Lunch,Fryums
+2026-10-08,Lunch,Chapati
+2026-10-08,E-Tea,Danish Bun
+2026-10-08,E-Tea,Coffee
+2026-10-08,Girls Hostel,Namak Pare
+2026-10-08,Girls Hostel,Tea
+2026-10-08,Dinner,White Chana Khata Mitha Kaddu
+2026-10-08,Dinner,Steamed Rice
+2026-10-08,Dinner,Green Salad
+2026-10-08,Dinner,Chapati
+2026-10-08,Dessert,Brownie
+2026-10-09,Breakfast,Sweet Dalia
+2026-10-09,Breakfast,Boiled Egg
+2026-10-09,Breakfast,Banana
+2026-10-09,Breakfast,Fat Spread
+2026-10-09,Breakfast,Jam
+2026-10-09,Breakfast,Bread
+2026-10-09,Breakfast,Tea
+2026-10-09,Lunch,Panchmail
+2026-10-09,Lunch,Palak Corn
+2026-10-09,Lunch,Steamed Rice
+2026-10-09,Lunch,Boondi Raita
+2026-10-09,Lunch,Green Salad
+2026-10-09,Lunch,Chapati
+2026-10-09,E-Tea,Namak Pare
+2026-10-09,E-Tea,Tea
+2026-10-09,Girls Hostel,Danish Bun
+2026-10-09,Girls Hostel,Coffee
+2026-10-09,Dinner,Chana Toor Dal
+2026-10-09,Dinner,Nutry Masala
+2026-10-09,Dinner,Steamed Rice
+2026-10-09,Dinner,Green Salad
+2026-10-09,Dinner,Chapati
+2026-10-10,Breakfast,Stuffed Paratha
+2026-10-10,Breakfast,Curd
+2026-10-10,Breakfast,Pickle
+2026-10-10,Breakfast,Fat Spread
+2026-10-10,Breakfast,Tea
+2026-10-10,Lunch,Dal Makhani
+2026-10-10,Lunch,Green Peas Masala
+2026-10-10,Lunch,Steamed Rice
+2026-10-10,Lunch,Jeera Raita
+2026-10-10,Lunch,Green Salad
+2026-10-10,Lunch,Chapati
+2026-10-10,E-Tea,Samosa
+2026-10-10,E-Tea,Tea
+2026-10-10,Girls Hostel,Namkeen
+2026-10-10,Girls Hostel,Tea
+2026-10-10,Dinner,Black Chana Mix Veg
+2026-10-10,Dinner,Jeera Rice
+2026-10-10,Dinner,Kachumber Salad
+2026-10-10,Dinner,Chapati
+2026-10-11,Breakfast,Chole Bhature
+2026-10-11,Breakfast,Green Chilli
+2026-10-11,Breakfast,Pickle
+2026-10-11,Breakfast,Tea
+2026-10-11,Breakfast,Onion
+2026-10-11,Lunch,Veg Biryani
+2026-10-11,Lunch,Tam Aloo
+2026-10-11,Lunch,Raita Mix
+2026-10-11,Lunch,Beetroot Cucumber Salad
+2026-10-11,Lunch,Chapati
+2026-10-11,E-Tea,Namkeen
+2026-10-11,E-Tea,Tea
+2026-10-11,Girls Hostel,Samosa
+2026-10-11,Girls Hostel,Tea
+2026-10-11,Dinner,Kadhai Paneer
+2026-10-11,Dinner,Green Moong Dal
+2026-10-11,Dinner,Steamed Rice
+2026-10-11,Dinner,Green Salad
+2026-10-11,Dinner,Chapati
+2026-10-11,Dessert,Sabudana Kheer
+2026-10-12,Breakfast,Pav Bhaji
+2026-10-12,Breakfast,Tea
+2026-10-12,Breakfast,Pickle
+2026-10-12,Breakfast,Milk
+2026-10-12,Lunch,Rajmah Ghiya Masala
+2026-10-12,Lunch,Jeera Rice
+2026-10-12,Lunch,Boondi Raita
+2026-10-12,Lunch,Green Salad
+2026-10-12,Lunch,Chapati
+2026-10-12,E-Tea,Mathi
+2026-10-12,E-Tea,Tea
+2026-10-12,Girls Hostel,Biscuit
+2026-10-12,Girls Hostel,Coffee
+2026-10-12,Dinner,Dal Palak
+2026-10-12,Dinner,Gobhi Matar
+2026-10-12,Dinner,Steamed Rice
+2026-10-12,Dinner,Green Salad
+2026-10-12,Dinner,Chapati
+2026-10-13,Breakfast,Namkeen Seviyan
+2026-10-13,Breakfast,Masala Aloo
+2026-10-13,Breakfast,Sandwich
+2026-10-13,Breakfast,Tomato
+2026-10-13,Breakfast,Ketchup
+2026-10-13,Breakfast,Milk
+2026-10-13,Breakfast,Tea
+2026-10-13,Lunch,Mix Dal
+2026-10-13,Lunch,Corn Peas Masala
+2026-10-13,Lunch,Mix Raita
+2026-10-13,Lunch,Steamed Rice
+2026-10-13,Lunch,Green Salad
+2026-10-13,Lunch,Chapati
+2026-10-13,E-Tea,Biscuit
+2026-10-13,E-Tea,Coffee
+2026-10-13,Girls Hostel,Mathi
+2026-10-13,Girls Hostel,Tea
+2026-10-13,Dinner,White Chana Nutry Keema
+2026-10-13,Dinner,Steamed Rice
+2026-10-13,Dinner,Green Salad
+2026-10-13,Dinner,Chapati
+2026-10-13,Dessert,Besan Ka Halwa
+2026-10-14,Breakfast,Poha
+2026-10-14,Breakfast,Besan Chilla
+2026-10-14,Breakfast,Chutney
+2026-10-14,Breakfast,Tea
+2026-10-14,Breakfast,Milk
+2026-10-14,Lunch,Black Dal Tadka
+2026-10-14,Lunch,Veg Korma
+2026-10-14,Lunch,Boondi Raita
+2026-10-14,Lunch,Steamed Rice
+2026-10-14,Lunch,Green Salad
+2026-10-14,Lunch,Chapati
+2026-10-14,E-Tea,Bread Pakora
+2026-10-14,E-Tea,Tea
+2026-10-14,Girls Hostel,Muffin
+2026-10-14,Girls Hostel,Tea
+2026-10-14,Dinner,Paneer Lababdar
+2026-10-14,Dinner,Lobiya Dal
+2026-10-14,Dinner,Steamed Rice
+2026-10-14,Dinner,Sirca Onion
+2026-10-14,Dinner,Chapati
+2026-10-15,Breakfast,Pav Bhaji
+2026-10-15,Breakfast,Tea
+2026-10-15,Breakfast,Pickle
+2026-10-15,Breakfast,Milk
+2026-10-15,Lunch,Aloo Onion Kadhi
+2026-10-15,Lunch,Jeera Aloo
+2026-10-15,Lunch,Steamed Rice
+2026-10-15,Lunch,Fryums
+2026-10-15,Lunch,Chapati
+2026-10-15,E-Tea,Muffin
+2026-10-15,E-Tea,Tea
+2026-10-15,Girls Hostel,Bread Pakora
+2026-10-15,Girls Hostel,Tea
+2026-10-15,Dinner,Rajmah
+2026-10-15,Dinner,Khata Mitha Kaddu
+2026-10-15,Dinner,Steamed Rice
+2026-10-15,Dinner,Green Salad
+2026-10-15,Dinner,Chapati
+2026-10-15,Dessert,Vermicelli Pudding with Condensed Milk
+2026-10-16,Breakfast,Sweet Dalia
+2026-10-16,Breakfast,Omelette
+2026-10-16,Breakfast,Banana
+2026-10-16,Breakfast,Fat Spread
+2026-10-16,Breakfast,Jam
+2026-10-16,Breakfast,Bread
+2026-10-16,Breakfast,Tea
+2026-10-16,Lunch,Malka Masoor
+2026-10-16,Lunch,Veg Kofta Curry
+2026-10-16,Lunch,Boondi Raita
+2026-10-16,Lunch,Jeera Rice
+2026-10-16,Lunch,Green Salad
+2026-10-16,Lunch,Chapati
+2026-10-16,E-Tea,Pink Sauce Pasta
+2026-10-16,E-Tea,Tea
+2026-10-16,Girls Hostel,Chips
+2026-10-16,Girls Hostel,Tea
+2026-10-16,Dinner,Black Chana
+2026-10-16,Dinner,Dum Aloo Punjabi
+2026-10-16,Dinner,Steamed Rice
+2026-10-16,Dinner,Green Salad
+2026-10-16,Dinner,Chapati
+2026-10-17,Breakfast,Stuffed Paratha
+2026-10-17,Breakfast,Curd
+2026-10-17,Breakfast,Pickle
+2026-10-17,Breakfast,Fat Spread
+2026-10-17,Breakfast,Tea
+2026-10-17,Lunch,Dal Makhani
+2026-10-17,Lunch,Nutry Masala
+2026-10-17,Lunch,Steamed Rice
+2026-10-17,Lunch,Green Salad
+2026-10-17,Lunch,Jeera Raita
+2026-10-17,Lunch,Chapati
+2026-10-17,E-Tea,Chips
+2026-10-17,E-Tea,Tea
+2026-10-17,Girls Hostel,Pink Sauce Pasta
+2026-10-17,Girls Hostel,Tea
+2026-10-17,Dinner,Veg Manchurian
+2026-10-17,Dinner,Dal Maratha
+2026-10-17,Dinner,Veg Fried Rice
+2026-10-17,Dinner,Green Salad
+2026-10-17,Dinner,Chapati
+2026-10-17,Dessert,Chocolate
+2026-10-18,Breakfast,Chole Bhature
+2026-10-18,Breakfast,Green Chilli
+2026-10-18,Breakfast,Pickle
+2026-10-18,Breakfast,Tea
+2026-10-18,Breakfast,Onion
+2026-10-18,Lunch,Khichadi
+2026-10-18,Lunch,Aloo Capsicum
+2026-10-18,Lunch,Plain Curd
+2026-10-18,Lunch,Cucumber Salad
+2026-10-18,Lunch,Chapati
+2026-10-18,E-Tea,Samosa
+2026-10-18,E-Tea,Tea
+2026-10-18,Girls Hostel,Namkeen
+2026-10-18,Girls Hostel,Tea
+2026-10-18,Dinner,Paneer Butter Masala
+2026-10-18,Dinner,Lobiya
+2026-10-18,Dinner,Steamed Rice
+2026-10-18,Dinner,Green Salad
+2026-10-18,Dinner,Chapati
+2026-10-19,Breakfast,Poori
+2026-10-19,Breakfast,Black Chana
+2026-10-19,Breakfast,Halwa
+2026-10-19,Breakfast,Tea
+2026-10-19,Breakfast,Pickle
+2026-10-19,Lunch,Panchmail Dal
+2026-10-19,Lunch,Veg Korma
+2026-10-19,Lunch,Mint Raita
+2026-10-19,Lunch,Steamed Rice
+2026-10-19,Lunch,Green Salad
+2026-10-19,Lunch,Chapati
+2026-10-19,E-Tea,Jhal Muri
+2026-10-19,E-Tea,Tea
+2026-10-19,Girls Hostel,Jhal Muri
+2026-10-19,Girls Hostel,Tea
+2026-10-19,Dinner,Sabut Masoor
+2026-10-19,Dinner,Tam Aloo
+2026-10-19,Dinner,Steamed Rice
+2026-10-19,Dinner,Green Salad
+2026-10-19,Dinner,Chapati
+2026-10-19,Dessert,Coconut Laddu
+2026-10-20,Breakfast,Cornflakes
+2026-10-20,Breakfast,Masala Aloo
+2026-10-20,Breakfast,Sandwich
+2026-10-20,Breakfast,Tomato Ketchup
+2026-10-20,Breakfast,Milk
+2026-10-20,Breakfast,Tea
+2026-10-20,Lunch,Rajmah
+2026-10-20,Lunch,Green Peas Masala
+2026-10-20,Lunch,Steamed Rice
+2026-10-20,Lunch,Mix Raita
+2026-10-20,Lunch,Kachumber Salad
+2026-10-20,Lunch,Chapati
+2026-10-20,E-Tea,Namkeen
+2026-10-20,E-Tea,Tea
+2026-10-20,Girls Hostel,Samosa
+2026-10-20,Girls Hostel,Tea
+2026-10-20,Dinner,Dal Palak
+2026-10-20,Dinner,Veg Jalfrazi
+2026-10-20,Dinner,Steamed Rice
+2026-10-20,Dinner,Green Salad
+2026-10-20,Dinner,Chapati
+2026-10-21,Breakfast,Poha
+2026-10-21,Breakfast,Besan Chilla
+2026-10-21,Breakfast,Chutney
+2026-10-21,Breakfast,Tea
+2026-10-21,Breakfast,Milk
+2026-10-21,Lunch,Black Dal Tadka
+2026-10-21,Lunch,Ghiya Masala
+2026-10-21,Lunch,Boondi Raita
+2026-10-21,Lunch,Jeera Rice
+2026-10-21,Lunch,Green Salad
+2026-10-21,Lunch,Chapati
+2026-10-21,E-Tea,Aloo Bonda
+2026-10-21,E-Tea,Tea
+2026-10-21,Girls Hostel,Cream Roll
+2026-10-21,Girls Hostel,Coffee
+2026-10-21,Dinner,Chicken Curry
+2026-10-21,Dinner,Matar Paneer
+2026-10-21,Dinner,Lobiya Dal
+2026-10-21,Dinner,Steamed Rice
+2026-10-21,Dinner,Sirca Onion
+2026-10-21,Dinner,Chapati
+2026-10-22,Breakfast,Poori
+2026-10-22,Breakfast,Aloo Bhaji
+2026-10-22,Breakfast,Tea
+2026-10-22,Breakfast,Pickle
+2026-10-22,Lunch,Kadhi Pakora
+2026-10-22,Lunch,Aloo Cabbage Matar
+2026-10-22,Lunch,Steamed Rice
+2026-10-22,Lunch,Fryums
+2026-10-22,Lunch,Chapati
+2026-10-22,E-Tea,Cream Roll
+2026-10-22,E-Tea,Coffee
+2026-10-22,Girls Hostel,Biscuit
+2026-10-22,Girls Hostel,Coffee
+2026-10-22,Dinner,Sabut Masoor Dal Palak Corn
+2026-10-22,Dinner,Steamed Rice
+2026-10-22,Dinner,Green Salad
+2026-10-22,Dinner,Chapati
+2026-10-22,Dessert,Besan Ka Halwa
+2026-10-23,Breakfast,Sweet Dalia
+2026-10-23,Breakfast,Boiled Egg
+2026-10-23,Breakfast,Banana
+2026-10-23,Breakfast,Fat Spread
+2026-10-23,Breakfast,Jam
+2026-10-23,Breakfast,Bread
+2026-10-23,Breakfast,Tea
+2026-10-23,Lunch,Mix Dal
+2026-10-23,Lunch,Aloo Capsicum Masala
+2026-10-23,Lunch,Chass
+2026-10-23,Lunch,Steamed Rice
+2026-10-23,Lunch,Green Salad
+2026-10-23,Lunch,Chapati
+2026-10-23,E-Tea,Bread Pakora
+2026-10-23,E-Tea,Tea
+2026-10-23,Girls Hostel,Jhal Muri
+2026-10-23,Girls Hostel,Tea
+2026-10-23,Dinner,White Chana
+2026-10-23,Dinner,Khata Mitha Kaddu
+2026-10-23,Dinner,Steamed Rice
+2026-10-23,Dinner,Green Salad
+2026-10-23,Dinner,Chapati
+2026-10-24,Breakfast,Stuffed Paratha
+2026-10-24,Breakfast,Curd
+2026-10-24,Breakfast,Pickle
+2026-10-24,Breakfast,Fat Spread
+2026-10-24,Breakfast,Tea
+2026-10-24,Lunch,Black Dal Fry
+2026-10-24,Lunch,Mix Veg
+2026-10-24,Lunch,Steamed Rice
+2026-10-24,Lunch,Boondi Raita
+2026-10-24,Lunch,Green Salad
+2026-10-24,Lunch,Chapati
+2026-10-24,E-Tea,Jhal Muri
+2026-10-24,E-Tea,Tea
+2026-10-24,Girls Hostel,Bread Pakora
+2026-10-24,Girls Hostel,Tea
+2026-10-24,Dinner,Dal Palak
+2026-10-24,Dinner,Nutry Masala
+2026-10-24,Dinner,Rice
+2026-10-24,Dinner,Green Salad
+2026-10-24,Dinner,Chapati
+2026-10-24,Dessert,Kesari Kheer
+2026-10-25,Breakfast,Chole Bhature
+2026-10-25,Breakfast,Green Chilli
+2026-10-25,Breakfast,Pickle
+2026-10-25,Breakfast,Tea
+2026-10-25,Breakfast,Onion
+2026-10-25,Lunch,Veg Biryani
+2026-10-25,Lunch,Tam Aloo
+2026-10-25,Lunch,Mix Raita
+2026-10-25,Lunch,Chana Peanut Salad
+2026-10-25,Lunch,Chapati
+2026-10-25,E-Tea,Mathi
+2026-10-25,E-Tea,Tea
+2026-10-25,Girls Hostel,Chips
+2026-10-25,Girls Hostel,Tea
+2026-10-25,Dinner,Paneer Chettinad
+2026-10-25,Dinner,Egg Bhurji
+2026-10-25,Dinner,Moong Sabut
+2026-10-25,Dinner,Steamed Rice
+2026-10-25,Dinner,Green Salad
+2026-10-25,Dinner,Chapati
+2026-10-26,Breakfast,Pav Bhaji
+2026-10-26,Breakfast,Tea
+2026-10-26,Breakfast,Pickle
+2026-10-26,Breakfast,Milk
+2026-10-26,Lunch,Rajmah Ghiya Masala
+2026-10-26,Lunch,Steamed Rice
+2026-10-26,Lunch,Jeera Raita
+2026-10-26,Lunch,Green Salad
+2026-10-26,Lunch,Chapati
+2026-10-26,E-Tea,Chips
+2026-10-26,E-Tea,Tea
+2026-10-26,Girls Hostel,Mathi
+2026-10-26,Girls Hostel,Tea
+2026-10-26,Dinner,Black Chana Aloo Cabbage Matar
+2026-10-26,Dinner,Steamed Rice
+2026-10-26,Dinner,Green Salad
+2026-10-26,Dinner,Chapati
+2026-10-27,Breakfast,Namkeen Seviyan
+2026-10-27,Breakfast,Masala Aloo
+2026-10-27,Breakfast,Sandwich
+2026-10-27,Breakfast,Tomato Ketchup
+2026-10-27,Breakfast,Milk
+2026-10-27,Breakfast,Tea
+2026-10-27,Lunch,Panchmail Dal
+2026-10-27,Lunch,Veg Korma
+2026-10-27,Lunch,Jeera Rice
+2026-10-27,Lunch,Green Salad
+2026-10-27,Lunch,Boondi Raita
+2026-10-27,Lunch,Chapati
+2026-10-27,E-Tea,Muffin
+2026-10-27,E-Tea,Tea
+2026-10-27,Girls Hostel,Muffin
+2026-10-27,Girls Hostel,Tea
+2026-10-27,Dinner,Dal Makhani
+2026-10-27,Dinner,Amritsari Badi
+2026-10-27,Dinner,Steamed Rice
+2026-10-27,Dinner,Green Salad
+2026-10-27,Dinner,Chapati
+2026-10-27,Dessert,Gulab Jamun
+2026-10-28,Breakfast,Poha
+2026-10-28,Breakfast,Besan Chilla
+2026-10-28,Breakfast,Chutney
+2026-10-28,Breakfast,Tea
+2026-10-28,Breakfast,Milk
+2026-10-28,Lunch,Dal Maratha
+2026-10-28,Lunch,Dahi Aloo
+2026-10-28,Lunch,Boondi Raita
+2026-10-28,Lunch,Steamed Rice
+2026-10-28,Lunch,Green Salad
+2026-10-28,Lunch,Chapati
+2026-10-28,E-Tea,Mix Pakora
+2026-10-28,E-Tea,Tea
+2026-10-28,Girls Hostel,Tea Cake
+2026-10-28,Girls Hostel,Tea
+2026-10-28,Dinner,Chicken Kohlapuri
+2026-10-28,Dinner,Paneer Butter Masala
+2026-10-28,Dinner,Lobiya Dal
+2026-10-28,Dinner,Steamed Rice
+2026-10-28,Dinner,Sirca Onion
+2026-10-28,Dinner,Chapati
+2026-10-29,Breakfast,Poori
+2026-10-29,Breakfast,Aloo Bhaji
+2026-10-29,Breakfast,Tea
+2026-10-29,Breakfast,Pickle
+2026-10-29,Lunch,Aloo Onion Kadhi
+2026-10-29,Lunch,Aloo Jeera
+2026-10-29,Lunch,Steamed Rice
+2026-10-29,Lunch,Fryums
+2026-10-29,Lunch,Chapati
+2026-10-29,E-Tea,Tea Cake
+2026-10-29,E-Tea,Tea
+2026-10-29,Girls Hostel,Mix Pakora
+2026-10-29,Girls Hostel,Tea
+2026-10-29,Dinner,White Chana
+2026-10-29,Dinner,Khata Mitha Kaddu
+2026-10-29,Dinner,Steamed Rice
+2026-10-29,Dinner,Green Salad
+2026-10-29,Dinner,Chapati
+2026-10-29,Dessert,Vermicelli Payasam
+2026-10-30,Breakfast,Sweet Dalia
+2026-10-30,Breakfast,Omelette
+2026-10-30,Breakfast,Banana
+2026-10-30,Breakfast,Fat Spread
+2026-10-30,Breakfast,Jam
+2026-10-30,Breakfast,Bread
+2026-10-30,Breakfast,Tea
+2026-10-30,Lunch,Yellow Dal Tadka
+2026-10-30,Lunch,Mix Veg
+2026-10-30,Lunch,Boondi Raita
+2026-10-30,Lunch,Steamed Rice
+2026-10-30,Lunch,Green Salad
+2026-10-30,Lunch,Chapati
+2026-10-30,E-Tea,Samosa
+2026-10-30,E-Tea,Tea
+2026-10-30,Girls Hostel,Rusk
+2026-10-30,Girls Hostel,Tea
+2026-10-30,Dinner,Rajmah Ghiya Masala
+2026-10-30,Dinner,Jeera Rice
+2026-10-30,Dinner,Kachumber Salad
+2026-10-30,Dinner,Chapati
+2026-10-31,Breakfast,Stuffed Paratha
+2026-10-31,Breakfast,Curd
+2026-10-31,Breakfast,Pickle
+2026-10-31,Breakfast,Fat Spread
+2026-10-31,Breakfast,Tea
+2026-10-31,Lunch,Black Chana
+2026-10-31,Lunch,Nutry Matar
+2026-10-31,Lunch,Mint Raita
+2026-10-31,Lunch,Steamed Rice
+2026-10-31,Lunch,Green Salad
+2026-10-31,Lunch,Chapati
+2026-10-31,E-Tea,Rusk
+2026-10-31,E-Tea,Tea
+2026-10-31,Girls Hostel,Samosa
+2026-10-31,Girls Hostel,Tea
+2026-10-31,Dinner,Chana Dal Tadka
+2026-10-31,Dinner,Dum Aloo
+2026-10-31,Dinner,Steamed Rice
+2026-10-31,Dinner,Green Salad
+2026-10-31,Dinner,Chapati
+2026-10-31,Dessert,Chocolate

@@ -1,0 +1,504 @@
+dish,ingredient,quantity_g,basis,source,source_type,reason,notes
+Aloo,Potato,70.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Boiled potato single portion,"Priority cultivar: Potato, brown skin, big"
+Aloo Bhaji,Potato,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Aloo Bhaji,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sautéed onion,"Priority cultivar: Onion, big commercial"
+Aloo Bhaji,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Aloo Bhaji,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green chilli,Green chillies - all varieties composite
+Aloo Bonda,Potato,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Spiced potato ball,"Priority cultivar: Potato, brown skin, big"
+Aloo Bonda,"Bengal gram, flour",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Besan batter coat,Besan is mechanically milled dehulled Bengal gram dal
+Aloo Bonda,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Aloo Bonda,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green chilli,Green chillies - all varieties composite
+Aloo Cabbage Matar,Potato,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Aloo Cabbage Matar,Cabbage,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Shredded cabbage,Direct match to fresh green cabbage
+Aloo Cabbage Matar,Green peas,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh green peas,Direct match to fresh green peas
+Aloo Cabbage Matar,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Aloo Cabbage Matar,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Aloo Capsicum,Potato,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Aloo Capsicum,"Capsicum, green",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced green bell pepper,Direct match to green capsicum (bell pepper)
+Aloo Capsicum,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Aloo Capsicum,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Aloo Capsicum,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Aloo Matar,Potato,45.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Aloo Matar,Green peas,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh green peas,Direct match to fresh green peas
+Aloo Matar,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Aloo Matar,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Aloo Matar,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Aloo Onion Kadhi,"Bengal gram, flour",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Besan kadhi base,Besan is mechanically milled dehulled Bengal gram dal
+Aloo Onion Kadhi,Curd / Dahi,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sour curd for kadhi,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Aloo Onion Kadhi,Potato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Aloo Onion Kadhi,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sliced onion,"Priority cultivar: Onion, big commercial"
+Aloo Onion Kadhi,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Amritsari Badi,"Black gram, dal",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Urad dal wadi/dumpling base,Direct match to dhuli urad dal
+Amritsari Badi,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Amritsari Badi,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Amritsari Badi,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Amritsari Badi,Ginger,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger,Direct match to fresh ginger
+Banana,Banana,100.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single medium whole raw edible banana,"Priority cultivar: Banana, ripe, montham"
+Beetroot Cucumber Salad,Beetroot,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh grated/sliced beetroot,Direct match to chukandar (beetroot)
+Beetroot Cucumber Salad,Cucumber,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh sliced cucumber,Direct match to kheera (green elongate cucumber)
+Beetroot Cucumber Salad,Lemon,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lemon juice dressing,Direct match to fresh lemon juice
+Besan Chilla,"Bengal gram, flour",35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Gram flour batter,Besan is mechanically milled dehulled Bengal gram dal
+Besan Chilla,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chopped onion,"Priority cultivar: Onion, big commercial"
+Besan Chilla,Tomato,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chopped tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Besan Chilla,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Pan frying oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Besan Chilla,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green chilli,Green chillies - all varieties composite
+Besan Ka Halwa,"Bengal gram, flour",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted besan,Besan is mechanically milled dehulled Bengal gram dal
+Besan Ka Halwa,Ghee,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Besan Ka Halwa,"Sugar, refined",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Besan Ka Halwa,"Milk, whole, cow",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk,Direct match to cow whole milk
+Biscuit,Commercial biscuit,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Packaged biscuits portion,Commercial ultra-processed biscuit lacking generic IFCT profile; excluded from scoring
+Black Chana,"Bengal gram, whole",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw kala chana issuance,Direct match to kala chana
+Black Chana,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Black Chana,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Black Chana,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Black Chana,Ginger,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger,Direct match to fresh ginger
+Black Dal Tadka,"Black gram, whole",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw sabut urad issuance,Direct match to sabut urad (black dal)
+Black Dal Tadka,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Black Dal Tadka,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Black Dal Tadka,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Black Dal Tadka,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Garlic cloves,"Priority cultivar: Garlic, big cloves"
+Boiled Egg,"Egg, whole",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single large whole boiled poultry egg,Direct match to whole boiled poultry egg
+Boondi Raita,Curd / Dahi,80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curd base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Boondi Raita,"Bengal gram, flour",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Boondi gram flour,Besan is mechanically milled dehulled Bengal gram dal
+Boondi Raita,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Boondi frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Bread,Commercial bread,50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Two slices white bread,"USDA FoodData Central 172685 (Bread, white, commercially prepared)"
+Bread Pakora,Commercial bread,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single white bread slice,"USDA FoodData Central 172685 (Bread, white, commercially prepared)"
+Bread Pakora,Potato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Potato stuffing,"Priority cultivar: Potato, brown skin, big"
+Bread Pakora,"Bengal gram, flour",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Besan batter coat,Besan is mechanically milled dehulled Bengal gram dal
+Bread Pakora,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Brownie,Commercial brownie,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single commercial chocolate brownie,Commercial ultra-processed brownie lacking IFCT profile; excluded from scoring
+Butter Chicken,"Chicken meat, breast",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Skinless chicken meat portion,"Direct match to chicken breast, skinless"
+Butter Chicken,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Makhani tomato gravy base,"Priority cultivar: Tomato, ripe, hybrid"
+Butter Chicken,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Butter Chicken,Butter,6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Butter enrichment,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Butter Chicken,"Milk, whole, cow",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Milk/cream enrichment,Direct match to cow whole milk
+Butter Chicken,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Chaas,Curd / Dahi,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diluted curd buttermilk base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Chaas,Cumin seeds,1.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted cumin,Direct match to cumin seeds (jeera)
+Chana Dal Tadka,"Bengal gram, dal",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw chana dal issuance,Direct match to chana dal
+Chana Dal Tadka,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Chana Dal Tadka,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Chana Dal Tadka,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Chana Dal Tadka,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Garlic cloves,"Priority cultivar: Garlic, big cloves"
+Chana Dal Tadka,Cumin seeds,1.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cumin tempering,Direct match to cumin seeds (jeera)
+Chana Peanut Salad,"Bengal gram, whole",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Boiled kala chana,Direct match to kala chana
+Chana Peanut Salad,Groundnut / Peanut,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted peanuts,Direct match to raw ground nut
+Chana Peanut Salad,Cucumber,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced cucumber,Direct match to kheera (green elongate cucumber)
+Chana Peanut Salad,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Chana Peanut Salad,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced onion,"Priority cultivar: Onion, big commercial"
+Chana Peanut Salad,Lemon,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lemon juice dressing,Direct match to fresh lemon juice
+Chana Toor Dal,"Bengal gram, dal",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chana dal component,Direct match to chana dal
+Chana Toor Dal,"Red gram, dal",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Toor dal component,Direct match to toor dal / arhar dal
+Chana Toor Dal,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Chana Toor Dal,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Chana Toor Dal,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Chapati,"Wheat flour, atta",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single chapati standard raw flour weight,Direct match to whole wheat atta
+Chicken Curry,"Chicken meat, breast",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Skinless chicken meat portion,"Direct match to chicken breast, skinless"
+Chicken Curry,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy base,"Priority cultivar: Tomato, ripe, hybrid"
+Chicken Curry,Onion,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy base,"Priority cultivar: Onion, big commercial"
+Chicken Curry,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Chicken Curry,Ginger,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger paste,Direct match to fresh ginger
+Chicken Curry,Garlic,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh garlic paste,"Priority cultivar: Garlic, big cloves"
+Chicken Kolhapuri,"Chicken meat, breast",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Skinless chicken meat portion,"Direct match to chicken breast, skinless"
+Chicken Kolhapuri,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Spicy Kolhapuri gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Chicken Kolhapuri,Onion,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy base,"Priority cultivar: Onion, big commercial"
+Chicken Kolhapuri,"Coconut, dry",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted desiccated coconut,"Direct match to coconut, kernel, dry"
+Chicken Kolhapuri,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Chicken Kolhapuri,Ginger,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger paste,Direct match to fresh ginger
+Chicken Kolhapuri,Garlic,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh garlic paste,"Priority cultivar: Garlic, big cloves"
+Chips,Commercial chips,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Packaged potato chips portion,Commercial ultra-processed potato chips lacking IFCT profile; excluded from scoring
+Chocolate,Commercial chocolate,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Commercial chocolate candy portion,Commercial packaged chocolate candy lacking IFCT profile; excluded from scoring
+Chocolate Pie,Commercial chocolate,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Commercial bakery chocolate pie portion,Commercial packaged chocolate candy lacking IFCT profile; excluded from scoring
+Chole Bhature,"Wheat flour, refined",40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined flour for bhature,Direct match to maida (refined wheat flour)
+Chole Bhature,Vegetable oil,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake for bhatura,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Chole Bhature,Kabuli chana,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw chickpea issuance,White chana mapped to proximate species Cicer arietinum L. (whole)
+Chole Bhature,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Gravy onion,"Priority cultivar: Onion, big commercial"
+Chole Bhature,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Gravy tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Chole Bhature,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chole gravy cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Chutney,Coriander leaves,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh coriander leaves,Direct match to fresh coriander leaves
+Chutney,Mint leaves,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh mint leaves,Direct match to fresh mint leaves
+Chutney,Green chilli,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Spicy green chilli,Green chillies - all varieties composite
+Chutney,Lemon,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lemon juice,Direct match to fresh lemon juice
+Coconut Laddu,"Coconut, dry",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Desiccated coconut,"Direct match to coconut, kernel, dry"
+Coconut Laddu,Condensed milk,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Condensed milk binder,USDA FoodData Central 173449 (Sweetened condensed canned milk)
+Coconut Laddu,"Sugar, refined",5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Coffee,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Milk component in coffee cup,Direct match to cow whole milk
+Coffee,"Sugar, refined",8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sweetening sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Coffee,Coffee powder,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Brewed coffee grounds,Infusion basis: powder imparts flavor; calories supplied by milk and sugar
+Corn Peas Masala,Sweet corn,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sweet corn kernels,"Direct match to maize, tender, sweet"
+Corn Peas Masala,Green peas,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Corn Peas Masala,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Corn Peas Masala,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Corn Peas Masala,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Cornflakes,Commercial cornflakes,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Breakfast cereal flakes single serving,Commercial breakfast cereal flakes lacking IFCT profile; excluded from scoring
+Cream Roll,Commercial cream roll,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single commercial bakery cream roll,Commercial ultra-processed cream roll lacking IFCT profile; excluded from scoring
+Crispy Dal Kachori,"Wheat flour, refined",35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Kachori crust,Direct match to maida (refined wheat flour)
+Crispy Dal Kachori,"Green gram, dal",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Moong dal filling,Direct match to moong dal (yellow/split)
+Crispy Dal Kachori,Vegetable oil,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Cucumber Salad,Cucumber,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh sliced cucumber,Direct match to kheera (green elongate cucumber)
+Cucumber Salad,Lemon,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lemon juice dressing,Direct match to fresh lemon juice
+Custard,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk base,Direct match to cow whole milk
+Custard,"Sugar, refined",12.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Custard,Sweet corn,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cornstarch base proxy,"Direct match to maize, tender, sweet"
+Dahi Aloo,Potato,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Boiled potato,"Priority cultivar: Potato, brown skin, big"
+Dahi Aloo,Curd / Dahi,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curd gravy,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Dahi Aloo,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Dahi Aloo,Cumin seeds,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tempering cumin,Direct match to cumin seeds (jeera)
+Dal Makhani,"Black gram, whole",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw sabut urad issuance,Direct match to sabut urad (black dal)
+Dal Makhani,Kidney beans,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw rajma component,"Direct match to rajmah, red"
+Dal Makhani,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato puree base,"Priority cultivar: Tomato, ripe, hybrid"
+Dal Makhani,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy base,"Priority cultivar: Onion, big commercial"
+Dal Makhani,Butter,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Butter enrichment,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Dal Makhani,"Milk, whole, cow",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Milk/cream enrichment,Direct match to cow whole milk
+Dal Makhani,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Dal Maratha,"Red gram, dal",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw toor dal issuance,Direct match to toor dal / arhar dal
+Dal Maratha,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Dal Maratha,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Dal Maratha,"Coconut, dry",5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted desiccated coconut,"Direct match to coconut, kernel, dry"
+Dal Maratha,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Dal Maratha,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Garlic cloves,"Priority cultivar: Garlic, big cloves"
+Dal Palak,"Red gram, dal",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw toor dal issuance,Direct match to toor dal / arhar dal
+Dal Palak,Spinach,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh chopped palak,Direct match to fresh palak
+Dal Palak,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Dal Palak,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Dal Palak,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Danish Bun,Commercial bun,45.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Commercial bakery sweet bun,Mapped to commercial white bread/bun baseline (USDA FDC 172685)
+Dhaba Dal,"Red gram, dal",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Toor dal component,Direct match to toor dal / arhar dal
+Dhaba Dal,"Bengal gram, dal",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chana dal component,Direct match to chana dal
+Dhaba Dal,"Green gram, dal",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Moong dal component,Direct match to moong dal (yellow/split)
+Dhaba Dal,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Dhaba Dal,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Dhaba Dal,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Dhaba Dal,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Garlic cloves,"Priority cultivar: Garlic, big cloves"
+Dum Aloo,Potato,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Baby/cut potato,"Priority cultivar: Potato, brown skin, big"
+Dum Aloo,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Dum Aloo,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Dum Aloo,Curd / Dahi,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curd gravy base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Dum Aloo,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Egg Bhurji,"Egg, whole",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single whole scrambled egg,Direct match to whole boiled poultry egg
+Egg Bhurji,Onion,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped onion,"Priority cultivar: Onion, big commercial"
+Egg Bhurji,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Egg Bhurji,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Egg Bhurji,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green chilli,Green chillies - all varieties composite
+Egg Curry,"Egg, whole",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single whole egg,Direct match to whole boiled poultry egg
+Egg Curry,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato curry base,"Priority cultivar: Tomato, ripe, hybrid"
+Egg Curry,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy base,"Priority cultivar: Onion, big commercial"
+Egg Curry,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Egg Curry,Ginger,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Ginger,Direct match to fresh ginger
+Egg Curry,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Garlic,"Priority cultivar: Garlic, big cloves"
+Fat Spread,Commercial fat spread,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Commercial table fat spread portion,Commercial margarine/fat spread lacking IFCT profile; excluded from scoring
+Fryums,Commercial fryums,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fried extruded snack portion,Commercial deep-fried extruded snack lacking IFCT profile; excluded from scoring
+Ghiya Masala,Bottle gourd,75.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced bottle gourd / lauki,Direct match to lauki / ghiya
+Ghiya Masala,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Ghiya Masala,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Ghiya Masala,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Gobhi Adraki,Cauliflower,65.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cauliflower florets,Direct match to fresh cauliflower
+Gobhi Adraki,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Gobhi Adraki,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Gobhi Adraki,Ginger,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Julienned ginger,Direct match to fresh ginger
+Gobhi Adraki,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Gobhi Matar,Cauliflower,45.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cauliflower florets,Direct match to fresh cauliflower
+Gobhi Matar,Green peas,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh green peas,Direct match to fresh green peas
+Gobhi Matar,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Gobhi Matar,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Gobhi Matar,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Green Chilli,Green chilli,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh green chilli garnish,Green chillies - all varieties composite
+Green Peas Masala,Green peas,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh green peas,Direct match to fresh green peas
+Green Peas Masala,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Green Peas Masala,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Green Peas Masala,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Green Salad,Cucumber,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh sliced cucumber,Direct match to kheera (green elongate cucumber)
+Green Salad,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh sliced tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Green Salad,Onion,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh sliced onion,"Priority cultivar: Onion, big commercial"
+Green Salad,Lemon,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lemon juice dressing,Direct match to fresh lemon juice
+Gulab Jamun,Khoa,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Mawa / khoa base,Direct match to khoa / mawa
+Gulab Jamun,"Wheat flour, refined",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Maida binder,Direct match to maida (refined wheat flour)
+Gulab Jamun,"Sugar, refined",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sugar syrup uptake,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Gulab Jamun,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Frying ghee uptake,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Halwa,"Wheat, semolina",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Suji / semolina,Direct match to suji / rava
+Halwa,Ghee,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Halwa,"Sugar, refined",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Jam,Commercial jam,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single commercial fruit jam portion,Commercial mixed fruit jam lacking generic IFCT profile; excluded from scoring
+Jeera Aloo,Potato,70.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Jeera Aloo,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Jeera Aloo,Cumin seeds,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cumin tempering,Direct match to cumin seeds (jeera)
+Jeera Raita,Curd / Dahi,95.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curd base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Jeera Raita,Cumin seeds,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted cumin powder,Direct match to cumin seeds (jeera)
+Jeera Rice,"Rice, raw/parboiled",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Standard single serving raw rice grain,Direct match to parboiled milled rice
+Jeera Rice,Ghee,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tempering fat,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Jeera Rice,Cumin seeds,1.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cumin tempering,Direct match to cumin seeds (jeera)
+Jhal Muri,"Rice, puffed",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Puffed rice base,Direct match to murmura (puffed rice)
+Jhal Muri,Groundnut / Peanut,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted peanuts,Direct match to raw ground nut
+Jhal Muri,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped onion,"Priority cultivar: Onion, big commercial"
+Jhal Muri,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Jhal Muri,Vegetable oil,4.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Mustard oil dressing,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Jhal Muri,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chopped green chilli,Green chillies - all varieties composite
+Kachumber Salad,Cucumber,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced cucumber,Direct match to kheera (green elongate cucumber)
+Kachumber Salad,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Kachumber Salad,Onion,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced onion,"Priority cultivar: Onion, big commercial"
+Kachumber Salad,Lemon,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lemon juice dressing,Direct match to fresh lemon juice
+Kadhai Paneer,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Kadhai Paneer,"Capsicum, green",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bell pepper chunks,Direct match to green capsicum (bell pepper)
+Kadhai Paneer,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Kadhai Paneer,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion chunks,"Priority cultivar: Onion, big commercial"
+Kadhai Paneer,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Kadhai Veg,"Capsicum, green",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bell pepper chunks,Direct match to green capsicum (bell pepper)
+Kadhai Veg,Cauliflower,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cauliflower florets,Direct match to fresh cauliflower
+Kadhai Veg,Carrot,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Carrot,Direct match to orange carrot
+Kadhai Veg,Green peas,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Kadhai Veg,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Kadhai Veg,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion chunks,"Priority cultivar: Onion, big commercial"
+Kadhai Veg,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Kadhi Pakora,"Bengal gram, flour",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Besan for kadhi and pakora,Besan is mechanically milled dehulled Bengal gram dal
+Kadhi Pakora,Curd / Dahi,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sour curd for kadhi,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Kadhi Pakora,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Pakora onion,"Priority cultivar: Onion, big commercial"
+Kadhi Pakora,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Frying and cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Kesari Kheer,"Rice, raw/parboiled",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw rice grains,Direct match to parboiled milled rice
+Kesari Kheer,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk base,Direct match to cow whole milk
+Kesari Kheer,"Sugar, refined",12.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sweetening sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Khata Mitha Kaddu,Pumpkin,80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced orange pumpkin,Direct match to kaddu (orange round pumpkin)
+Khata Mitha Kaddu,Jaggery,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Jaggery for sweet-sour profile,"Direct match to jaggery, cane"
+Khata Mitha Kaddu,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Khichdi,"Rice, raw/parboiled",35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw rice grain,Direct match to parboiled milled rice
+Khichdi,"Green gram, dal",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Split moong dal,Direct match to moong dal (yellow/split)
+Khichdi,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tempering ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Lobiya Dal,Cowpea,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw cowpea / lobiya issuance,Direct match to lobiya (brown cowpea)
+Lobiya Dal,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Lobiya Dal,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Lobiya Dal,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Malka Masoor,"Lentil, dal",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw split red masoor dal issuance,Direct match to malka masoor (split lentil)
+Malka Masoor,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Malka Masoor,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Malka Masoor,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Masala Aloo,Potato,65.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Masala Aloo,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Masala Aloo,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Masala Aloo,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Matar Paneer,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Matar Paneer,Green peas,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Matar Paneer,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Matar Paneer,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Matar Paneer,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Mathi,"Wheat flour, refined",35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined flour dough,Direct match to maida (refined wheat flour)
+Mathi,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Milk,"Milk, whole, cow",150.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Standard single glass milk serving,Direct match to cow whole milk
+Mint Raita,Curd / Dahi,90.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curd base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Mint Raita,Mint leaves,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Crushed fresh mint,Direct match to fresh mint leaves
+Mix Dal Amritsari,"Red gram, dal",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Toor dal component,Direct match to toor dal / arhar dal
+Mix Dal Amritsari,"Bengal gram, dal",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chana dal component,Direct match to chana dal
+Mix Dal Amritsari,"Black gram, dal",5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Urad dal component,Direct match to dhuli urad dal
+Mix Dal Amritsari,"Green gram, dal",5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Moong dal component,Direct match to moong dal (yellow/split)
+Mix Dal Amritsari,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Mix Dal Amritsari,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Mix Dal Amritsari,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Mix Pakora,"Bengal gram, flour",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Besan batter,Besan is mechanically milled dehulled Bengal gram dal
+Mix Pakora,Potato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sliced potato,"Priority cultivar: Potato, brown skin, big"
+Mix Pakora,Onion,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sliced onion,"Priority cultivar: Onion, big commercial"
+Mix Pakora,Cabbage,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Shredded cabbage,Direct match to fresh green cabbage
+Mix Pakora,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Mix Raita,Curd / Dahi,75.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curd base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Mix Raita,Cucumber,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped cucumber,Direct match to kheera (green elongate cucumber)
+Mix Raita,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Mix Veg,Potato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Mix Veg,Cauliflower,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cauliflower florets,Direct match to fresh cauliflower
+Mix Veg,Carrot,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced carrot,Direct match to orange carrot
+Mix Veg,Green peas,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Mix Veg,French beans,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chopped green beans,Direct match to green french beans
+Mix Veg,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Mix Veg,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Moong Dal,"Green gram, dal",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw yellow moong dal issuance,Direct match to moong dal (yellow/split)
+Moong Dal,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Moong Dal,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Moong Dal,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Moong Dal,Cumin seeds,1.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cumin tempering,Direct match to cumin seeds (jeera)
+Moong Sabut,"Green gram, whole",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw whole green moong issuance,Direct match to moong sabut
+Moong Sabut,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Moong Sabut,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Moong Sabut,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Muffin,Commercial muffin,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single commercial bakery muffin,Commercial ultra-processed bakery muffin lacking IFCT profile; excluded from scoring
+Namak Pare,"Wheat flour, refined",35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined flour dough,Direct match to maida (refined wheat flour)
+Namak Pare,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Namkeen,Commercial namkeen,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Commercial savoury fried mixture portion,Commercial fried savoury mixture lacking IFCT profile; excluded from scoring
+Namkeen Seviyan,"Wheat, vermicelli",40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted vermicelli,Direct match to sevai
+Namkeen Seviyan,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sautéed onion,"Priority cultivar: Onion, big commercial"
+Namkeen Seviyan,Green peas,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Namkeen Seviyan,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Namkeen Seviyan,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Nutry Masala,Soyabean chunks,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Dry soya chunks,Commercial soya chunks mapped to raw whole soyabean as baseline
+Nutry Masala,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Nutry Masala,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Nutry Masala,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Nutry Masala,Ginger,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger,Direct match to fresh ginger
+Nutry Masala,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh garlic,"Priority cultivar: Garlic, big cloves"
+Nutry Matar,Soyabean chunks,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Dry soya chunks,Commercial soya chunks mapped to raw whole soyabean as baseline
+Nutry Matar,Green peas,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Nutry Matar,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Nutry Matar,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Nutry Matar,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Omelette,"Egg, whole",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single whole beaten egg,Direct match to whole boiled poultry egg
+Omelette,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped onion,"Priority cultivar: Onion, big commercial"
+Omelette,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely chopped tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Omelette,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Pan frying oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Omelette,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green chilli,Green chillies - all varieties composite
+Onion,Onion,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw salad onion slices,"Priority cultivar: Onion, big commercial"
+Palak Corn,Spinach,50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Pureed spinach leaves,Direct match to fresh palak
+Palak Corn,Sweet corn,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sweet corn kernels,"Direct match to maize, tender, sweet"
+Palak Corn,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Palak Corn,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Palak Corn,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Panchmail Dal,"Red gram, dal",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Toor dal,Direct match to toor dal / arhar dal
+Panchmail Dal,"Bengal gram, dal",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chana dal,Direct match to chana dal
+Panchmail Dal,"Green gram, dal",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Moong dal,Direct match to moong dal (yellow/split)
+Panchmail Dal,"Black gram, dal",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Urad dal,Direct match to dhuli urad dal
+Panchmail Dal,"Lentil, dal",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Masoor dal,Direct match to malka masoor (split lentil)
+Panchmail Dal,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Panchmail Dal,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Panchmail Dal,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Paneer Butter Masala,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Paneer Butter Masala,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Makhani tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Paneer Butter Masala,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Gravy onion,"Priority cultivar: Onion, big commercial"
+Paneer Butter Masala,Butter,6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Butter finish,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Paneer Butter Masala,"Milk, whole, cow",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Milk/cream base,Direct match to cow whole milk
+Paneer Butter Masala,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Paneer Chettinad,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Paneer Chettinad,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chettinad tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Paneer Chettinad,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Paneer Chettinad,"Coconut, dry",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chettinad coconut spice paste,"Direct match to coconut, kernel, dry"
+Paneer Chettinad,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Paneer Do Pyaza,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Paneer Do Pyaza,Onion,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Double stage sautéed onions,"Priority cultivar: Onion, big commercial"
+Paneer Do Pyaza,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Paneer Do Pyaza,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Paneer Kolhapuri,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Paneer Kolhapuri,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Spicy tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Paneer Kolhapuri,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Paneer Kolhapuri,"Coconut, dry",6.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted desiccated coconut,"Direct match to coconut, kernel, dry"
+Paneer Kolhapuri,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Paneer Lababdar,Paneer,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh paneer cubes,Direct match to fresh paneer
+Paneer Lababdar,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Lababdar tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Paneer Lababdar,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Gravy onion,"Priority cultivar: Onion, big commercial"
+Paneer Lababdar,"Milk, whole, cow",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Milk enrichment,Direct match to cow whole milk
+Paneer Lababdar,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Pav Bhaji,Commercial bun,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single pav bun,Mapped to commercial white bread/bun baseline (USDA FDC 172685)
+Pav Bhaji,Potato,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bhaji boiled potato base,"Priority cultivar: Potato, brown skin, big"
+Pav Bhaji,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bhaji tomato puree,"Priority cultivar: Tomato, ripe, hybrid"
+Pav Bhaji,Cauliflower,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bhaji mixed vegetables,Direct match to fresh cauliflower
+Pav Bhaji,Green peas,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bhaji green peas,Direct match to fresh green peas
+Pav Bhaji,"Capsicum, green",10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bhaji capsicum,Direct match to green capsicum (bell pepper)
+Pav Bhaji,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Bhaji sautéed onion,"Priority cultivar: Onion, big commercial"
+Pav Bhaji,Butter,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Butter for bhaji and pav,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Pickle,Commercial pickle,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single commercial pickle portion,Commercial mango/mixed pickle with unmeasured salt brine; excluded from scoring
+Pink Sauce Pasta,Commercial pasta,60.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Commercial pasta serving,Commercial pink sauce pasta lacking IFCT profile; excluded from scoring
+Plain Curd,Curd / Dahi,100.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Standard single katori curd serving,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Plain Rice,"Rice, raw/parboiled",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Standard single serving raw rice grain,Direct match to parboiled milled rice
+Poha,"Rice, flakes",40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Flattened rice flakes,Direct match to poha (rice flakes)
+Poha,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sautéed onion,"Priority cultivar: Onion, big commercial"
+Poha,Groundnut / Peanut,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasted peanuts,Direct match to raw ground nut
+Poha,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tempering cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Poha,Green chilli,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Spiced green chilli,Green chillies - all varieties composite
+Poori,"Wheat flour, atta",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single poori raw flour weight,Direct match to whole wheat atta
+Poori,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake per poori,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Poori Aloo Chana,"Wheat flour, atta",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Poori raw flour,Direct match to whole wheat atta
+Poori Aloo Chana,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Poori frying oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Poori Aloo Chana,Potato,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Aloo sabzi potato,"Priority cultivar: Potato, brown skin, big"
+Poori Aloo Chana,"Bengal gram, whole",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Black chana issuance,Direct match to kala chana
+Poori Aloo Chana,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curry onion,"Priority cultivar: Onion, big commercial"
+Poori Aloo Chana,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curry tomato,"Priority cultivar: Tomato, ripe, hybrid"
+Poori Aloo Chana,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Curry cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Rajmah,Kidney beans,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw red kidney beans issuance,"Direct match to rajmah, red"
+Rajmah,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Thick tomato gravy base,"Priority cultivar: Tomato, ripe, hybrid"
+Rajmah,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Gravy onion base,"Priority cultivar: Onion, big commercial"
+Rajmah,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Rajmah,Ginger,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger paste,Direct match to fresh ginger
+Rajmah,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh garlic paste,"Priority cultivar: Garlic, big cloves"
+Rusk,Commercial rusk,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Two pieces commercial bakery rusk,Commercial twice-baked toast lacking IFCT profile; excluded from scoring
+Sabudana Kheer,Tapioca pearls,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sabudana pearls,Sabudana processed starch pearls mapped to proximate raw tapioca root
+Sabudana Kheer,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk base,Direct match to cow whole milk
+Sabudana Kheer,"Sugar, refined",12.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sweetening sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Sabut Masoor,"Lentil, whole",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw whole brown lentil issuance,Direct match to sabut masoor (brown lentil)
+Sabut Masoor,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Sabut Masoor,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Sabut Masoor,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Samosa,Potato,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Boiled spiced potato filling,"Priority cultivar: Potato, brown skin, big"
+Samosa,"Wheat flour, refined",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Pastry crust,Direct match to maida (refined wheat flour)
+Samosa,Green peas,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas filling,Direct match to fresh green peas
+Samosa,Vegetable oil,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Sandwich,Commercial bread,50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Two slices commercial white bread,"USDA FoodData Central 172685 (Bread, white, commercially prepared)"
+Sandwich,Cucumber,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cucumber slices,Direct match to kheera (green elongate cucumber)
+Sandwich,Tomato,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato slices,"Priority cultivar: Tomato, ripe, hybrid"
+Sandwich,Butter,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Table butter spread,"USDA FoodData Central 173410 (Butter, salted, 81.1g fat/100g)"
+Sirca Onion,Onion,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Pickled small onion,"Priority cultivar: Onion, big commercial"
+Sirca Onion,Beetroot,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Natural beetroot color,Direct match to chukandar (beetroot)
+Stuffed Paratha,"Wheat flour, atta",40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Paratha dough flour,Direct match to whole wheat atta
+Stuffed Paratha,Potato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Potato stuffing,"Priority cultivar: Potato, brown skin, big"
+Stuffed Paratha,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Shallow frying fat,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Sweet Dalia,"Wheat, bulgur",35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Broken wheat grains,Direct match to dalia (broken wheat bulgur)
+Sweet Dalia,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk base,Direct match to cow whole milk
+Sweet Dalia,"Sugar, refined",8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sweetening sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Tea,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Milk component in tea cup,Direct match to cow whole milk
+Tea,"Sugar, refined",8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sweetening sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Tea,Tea leaves,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Brewed tea leaves,Infusion basis: leaves impart flavor; calories supplied by milk and sugar
+Tea Cake,Commercial tea cake,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single slice commercial bakery tea cake,Commercial bakery cake lacking IFCT profile; excluded from scoring
+Tomato,Tomato,40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw salad tomato slices,"Priority cultivar: Tomato, ripe, hybrid"
+Tomato Ketchup,Commercial tomato ketchup,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Single commercial ketchup sachet/portion,Commercial sweetened ketchup lacking generic IFCT profile; excluded from scoring
+Veg Biryani,"Rice, raw/parboiled",50.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw basmati/parboiled rice,Direct match to parboiled milled rice
+Veg Biryani,Potato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Biryani vegetables,"Priority cultivar: Potato, brown skin, big"
+Veg Biryani,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fried onion base,"Priority cultivar: Onion, big commercial"
+Veg Biryani,Green peas,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Veg Biryani,Carrot,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced carrot,Direct match to orange carrot
+Veg Biryani,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Aromatic tempering ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Veg Fried Rice,"Rice, raw/parboiled",45.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw rice grain,Direct match to parboiled milled rice
+Veg Fried Rice,Cabbage,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely shredded cabbage,Direct match to fresh green cabbage
+Veg Fried Rice,Carrot,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced carrot,Direct match to orange carrot
+Veg Fried Rice,French beans,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Chopped green beans,Direct match to green french beans
+Veg Fried Rice,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Wok frying oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Veg Jaipuri,Potato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Veg Jaipuri,Cauliflower,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cauliflower florets,Direct match to fresh cauliflower
+Veg Jaipuri,Green peas,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Veg Jaipuri,Paneer,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced paneer,Direct match to fresh paneer
+Veg Jaipuri,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Veg Jaipuri,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Veg Jaipuri,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Veg Jalfrazi,"Capsicum, green",25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Julienned bell pepper,Direct match to green capsicum (bell pepper)
+Veg Jalfrazi,Carrot,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Julienned carrot,Direct match to orange carrot
+Veg Jalfrazi,French beans,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,French beans,Direct match to green french beans
+Veg Jalfrazi,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Veg Jalfrazi,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion slices,"Priority cultivar: Onion, big commercial"
+Veg Jalfrazi,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Veg Kofta Curry,Bottle gourd,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Grated bottle gourd kofta,Direct match to lauki / ghiya
+Veg Kofta Curry,Potato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Mashed potato binder,"Priority cultivar: Potato, brown skin, big"
+Veg Kofta Curry,"Bengal gram, flour",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Besan binder,Besan is mechanically milled dehulled Bengal gram dal
+Veg Kofta Curry,Tomato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+Veg Kofta Curry,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion gravy,"Priority cultivar: Onion, big commercial"
+Veg Kofta Curry,Vegetable oil,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Deep frying kofta and curry oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Veg Korma,Potato,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced potato,"Priority cultivar: Potato, brown skin, big"
+Veg Korma,Carrot,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Diced carrot,Direct match to orange carrot
+Veg Korma,Green peas,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green peas,Direct match to fresh green peas
+Veg Korma,French beans,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Green beans,Direct match to green french beans
+Veg Korma,Curd / Dahi,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Korma curd base,Fermented whole cow milk equivalent; assumes identical raw milk solids
+Veg Korma,"Coconut, dry",5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Coconut paste,"Direct match to coconut, kernel, dry"
+Veg Korma,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Veg Manchurian,Cabbage,35.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Finely shredded cabbage ball,Direct match to fresh green cabbage
+Veg Manchurian,Carrot,20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Grated carrot,Direct match to orange carrot
+Veg Manchurian,"Wheat flour, refined",15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Binding flour,Direct match to maida (refined wheat flour)
+Veg Manchurian,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Spring/regular onion,"Priority cultivar: Onion, big commercial"
+Veg Manchurian,Vegetable oil,8.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Frying oil uptake,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+Vermicelli Payasam,"Wheat, vermicelli",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sevai,Direct match to sevai
+Vermicelli Payasam,"Milk, whole, cow",80.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk base,Direct match to cow whole milk
+Vermicelli Payasam,"Sugar, refined",12.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Refined sweetening sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+Vermicelli Payasam,Ghee,3.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Roasting ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Vermicelli Pudding with Condensed Milk,"Wheat, vermicelli",20.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sevai,Direct match to sevai
+Vermicelli Pudding with Condensed Milk,"Milk, whole, cow",40.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Whole milk,Direct match to cow whole milk
+Vermicelli Pudding with Condensed Milk,Condensed milk,25.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sweetened condensed milk,USDA FoodData Central 173449 (Sweetened condensed canned milk)
+Vermicelli Pudding with Condensed Milk,"Sugar, refined",5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Sugar,"USDA FoodData Central 169655 (Sugars, granulated sucrose: 387 kcal/100g)"
+White Chana,Kabuli chana,30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw kabuli chana issuance,White chana mapped to proximate species Cicer arietinum L. (whole)
+White Chana,Tomato,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato gravy,"Priority cultivar: Tomato, ripe, hybrid"
+White Chana,Onion,15.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+White Chana,Vegetable oil,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cooking oil,Mustard oil with energy derived via Atwater fat factor (900 kcal/100g)
+White Chana,Ginger,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Fresh ginger,Direct match to fresh ginger
+Yellow Dal Tadka,"Red gram, dal",30.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Raw toor dal issuance,Direct match to toor dal / arhar dal
+Yellow Dal Tadka,Tomato,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tomato base,"Priority cultivar: Tomato, ripe, hybrid"
+Yellow Dal Tadka,Onion,10.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Onion base,"Priority cultivar: Onion, big commercial"
+Yellow Dal Tadka,Ghee,5.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Tadka ghee,Direct match to ghee with energy derived via Atwater fat factor (900 kcal/100g)
+Yellow Dal Tadka,Garlic,2.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Garlic cloves,"Priority cultivar: Garlic, big cloves"
+Yellow Dal Tadka,Cumin seeds,1.0,RAW_INGREDIENT_GRAM_PER_SERVING,PROJECT_PORTION_ASSUMPTIONS,PROJECT_ASSUMPTION,Cumin tempering,Direct match to cumin seeds (jeera)

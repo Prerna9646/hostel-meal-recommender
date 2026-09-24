@@ -1,0 +1,9 @@
+standard,category,min_bmi,max_bmi,source_id,citation,notes
+ASIAN_INDIAN_MISRA2009,UNDERWEIGHT,0.0,18.49,SRC_MISRA_2009,"Misra et al. (2009) JAPI 57:163-170",Increased risk of nutrient deficiency and fatigue
+ASIAN_INDIAN_MISRA2009,NORMAL,18.5,22.99,SRC_MISRA_2009,"Misra et al. (2009) JAPI 57:163-170",Optimal health and minimal metabolic risk for Asian Indians
+ASIAN_INDIAN_MISRA2009,OVERWEIGHT,23.0,24.99,SRC_MISRA_2009,"Misra et al. (2009) JAPI 57:163-170",Increased risk of insulin resistance and type 2 diabetes
+ASIAN_INDIAN_MISRA2009,OBESE,25.0,100.0,SRC_MISRA_2009,"Misra et al. (2009) JAPI 57:163-170",High risk of metabolic syndrome and cardiovascular complications
+WHO_INTERNATIONAL,UNDERWEIGHT,0.0,18.49,SRC_WHO_2000,"WHO Technical Report Series 894 (2000)",Standard international underweight threshold
+WHO_INTERNATIONAL,NORMAL,18.5,24.99,SRC_WHO_2000,"WHO Technical Report Series 894 (2000)",Standard international normal weight range
+WHO_INTERNATIONAL,OVERWEIGHT,25.0,29.99,SRC_WHO_2000,"WHO Technical Report Series 894 (2000)",Standard international overweight range
+WHO_INTERNATIONAL,OBESE,30.0,100.0,SRC_WHO_2000,"WHO Technical Report Series 894 (2000)",Standard international obesity threshold

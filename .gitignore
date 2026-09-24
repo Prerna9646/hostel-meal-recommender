@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Streamlit secrets (if you ever add any)
+.streamlit/secrets.toml
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE folders (only if not team-shared)
+.vscode/
+.idea/
+
+# Generated data (since run_pipeline.py regenerates these from raw+config)
+data/processed/*.csv
+data/metadata/*.csv
+
+# Scratch / browser profile folders — never commit these
+scratch/
+scratch_edge/
+scratch_edge_dark/
+scratch_edge_light/
+ 
+ 
